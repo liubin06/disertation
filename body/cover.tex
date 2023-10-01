@@ -1,0 +1,55 @@
+
+%%% Local Variables:
+%%% mode: Xelatex
+%%% TeX-master: t
+%%% End:
+
+\ctitle{基于对比学习的推荐算法研究}
+
+\xuehao{D201881076} \schoolcode{10487}
+\csubjectname{信息与通信工程} \cauthorname{刘斌}
+\csupervisorname{王邦} \csupervisortitle{教授}
+\defencedate{202X~年~X~月~X~日} \grantdate{}
+\chair{}%
+\firstreviewer{} \secondreviewer{} \thirdreviewer{}
+
+\etitle{Contrastive Learning for Personalized Recommendation}
+\edegree{Doctor of Engineering}
+\esubject{Information and Communication Engineering}
+\eauthor{LIU BIN}
+\esupervisor{Prof. WANG BANG}
+%定义中英文摘要和关键字
+\cabstract{
+在互联网飞速发展的信息时代，推荐系统在电商、社交媒体、新闻阅读等领域发挥着重要的作用,受到了广泛的关注和研究。推荐领域的排序预测任务根植于对比学习范式，通过编码不同样本之间的差异特征学习数据潜在的结构和特性，取得了出色的泛化能力。然而，推荐场景中的隐式反馈数据集具有正例弱监督、负例无监督等特性，对学习良好的用户、物品特征的表示产生了挑战，并对排序预测任务产生了不利的影响。如何从弱监督的用户行为数据中学到良好的用户、物品的特征表示，是对比学习基础理论的需要，也是提升推荐算法准确性的现实需求。
+
+本文从推荐场景中正例弱监督、负例无监督的问题出发，针对对比学习的三个关键组件，正例、负例、损失函数做出了改进，提出了正例去噪算法、负例采样算法和损失函数校正算法，并且将损失函数校正方法从单个负例的成对学习向更具一般性的多个负例的对比学习推广。本文的创新和贡献如下：
+
+针对伪正样本问题，提出了自适应学习的成对排序算法，用于从含噪成对比较的数据中学习个性化排序。将从含噪成对比较的数据中学习排序的问题形式化为一个含有隐变量的最大后验估计问题。所提出的算法采用期望最大化框架：在期望步骤中使用贝叶斯推断来估计交互的置信度指标；在最大化步骤中固定置信度指标，更新参数学习用户和物品的特征表示。该算法在合成的噪声数据集上表现出了更好的鲁棒性，在真实的数据集上表现出更高的推荐准确性。
+
+针对伪负样本问题，提出了贝叶斯最优负采样算法，用于从未标记的数据中采样高质量的负例。提出了贝叶斯最优负采样准则，是最小化经验采样风险的理论最优的采样规则。该方法提出了后验概率意义上的负信号测度，结合了静态的先验信息和动态的样本信息，较好地综合了现有的两种提取负信号的两种主要范式，并为使用辅助信息建模先验概率的方法提供了灵活的接口。该算法在采样误差率和采样样本信息量以及推荐准确性上优于同类方法。
+
+针对有偏的成对损失优化目标，提出了去偏成对学习算法，通过校正正例-未标注（Positive-unlabeled）数据计算得到的成对损失，以近似完全监督数据的成对损失函数，以获得接近于有监督学习的泛化性能。所提出的目标函数易于实现，不需要额外的辅助信息进行监督，也不需要过多的存储和计算开销。在保持严格的相对于成对学习的线性时间复杂度情况下，去偏成对学习算法取得了更高的推荐准确性。
+
+针对有偏的对比损失优化目标，提出了贝叶斯自监督对比学习算法，通过重要性权重来纠正从无标签数据中随机选择的负样本引入的偏差。从单个权重来看，该权重正比于未标注样本是真负例的后验概率估计，可以灵活统一地执行硬负例挖掘和伪负例去偏任务。从损失函数的数值来看，该方法是有监督对比损失的一致估计，从而提升下游任务的泛化性能。在数值实验、个性化推荐和图像分类等多个任务上验证了贝叶斯自监督对比学习算法的有效性。
+
+综上，本文面向隐式反馈数据的弱监督特性，针对对比学习的三个关键组提出了相应的正例去噪算法、负例采样算法和损失函数校正算法，为后续推荐算法和对比学习研究提供了有效的支撑。
+}
+
+
+\ckeywords{推荐算法；对比学习；成对学习；自监督学习；负采样}
+
+\eabstract{In the rapidly evolving information age of the Internet, recommendation systems play a pivotal role in e-commerce, social media, news reading, and other sectors, progressively dominating the process of information discovery and garnering widespread attention and research. Ranking prediction tasks in the recommendation field are rooted in the contrastive learning paradigm, which learns the underlying structure and attributes of data by encoding differences between various samples, exhibiting impressive data efficiency and generalization capabilities. However, the scenario features of recommendations determine the weak supervision of positive examples and the unsupervised nature of negative examples in implicit feedback datasets. This poses a challenge to learning good user and item feature representations and adversely affects ranking prediction tasks. How to learn good user and item feature representations from weakly supervised user behavior data is a theoretical necessity for contrastive learning and a practical requirement for improving the accuracy of recommendation algorithms.
+	
+	This paper starts from the weak supervision of positive examples and the unsupervised nature of negative examples in recommendation scenarios. It makes improvements for the three key components of contrastive learning: positive examples, negative examples, and loss function. Correspondingly, it proposes a positive example denoising algorithm, a negative example sampling algorithm, and a loss function correction algorithm. Moreover, it extends the loss function correction method from pairwise learning of a single negative example to more generalized contrastive learning with multiple negative examples. The innovations and contributions of this paper are as follows:
+	
+	For the pseudo-positive sample problem, an adaptive learning pairwise ranking algorithm is proposed, used for learning personalized ranking from noisy pairwise comparison data. The problem of learning ranking from noisy pairwise comparison data is formalized into a maximum posterior estimation problem with hidden variables. The proposed algorithm adopts an expectation-maximization framework: using Bayesian inference to estimate the confidence indicators of interactions in the expectation step, and updating parameters to learn the feature representations of users and items in the maximization step. This algorithm shows better robustness on synthetic noisy datasets and higher recommendation accuracy on real datasets.
+	
+	For the pseudo-negative sample problem, a Bayesian Optimal Negative Sampling algorithm is proposed, used for sampling high-quality negative examples from unlabeled data. A Bayesian Optimal Negative Sampling criterion is proposed, which is the theoretically optimal sampling rule for minimizing empirical sampling risk. This method specifies a negative signal measure in the sense of posterior probability, combining static prior information and dynamic sample information, unifying the two main paradigms for extracting negative signals, and providing a flexible interface for modeling prior probabilities using auxiliary information. This algorithm outperforms similar methods in terms of sampling error rate, sampling sample information amount, and recommendation accuracy.
+	
+	For the biased pairwise loss optimization objective, a debiased pairwise learning algorithm is proposed, which approximates the pairwise loss function of fully supervised data to achieve generalization performance close to supervised learning. The proposed objective function is easy to implement, does not require additional auxiliary information for supervision, and does not require excessive storage and computational overhead. While maintaining a strict linear time complexity relative to pairwise learning, the debiased pairwise learning algorithm achieves higher recommendation accuracy.
+	
+	For the biased contrastive loss optimization objective, a Bayesian Self-Supervised Contrastive Learning algorithm is proposed, which corrects the bias introduced by randomly selected negative samples from unlabeled data through importance weighting. From the perspective of single weight, this method provides a posterior probability estimate that the sample is a true negative example, and can flexibly and uniformly perform the two conflicting tasks of hard negative example mining and pseudo-negative example debiasing. In terms of the value of the loss function, this method provides a consistent estimate of the contrastive loss under supervised data, thereby enhancing the generalization performance of downstream tasks. The effectiveness of the Bayesian Self-Supervised Contrastive Learning algorithm has been verified on multiple tasks, including numerical experiments, personalized recommendation, and image classification.
+	
+	In summary, this paper proposes corresponding positive example denoising algorithms, negative example sampling algorithms, and loss function correction algorithms for the three key components of contrastive learning, targeting the weak supervision characteristics of implicit feedback data. It provides effective support for subsequent recommendation algorithms and contrastive learning research. }
+
+\ekeywords{Recommendation, Contrastive Learning, Pairwise Learning, Self-supervised Learning, Negative Sampling}
