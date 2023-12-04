@@ -1,0 +1,1074 @@
+\begin{thebibliography}{100}
+
+\bibitem{rs}
+黄立威, 江碧涛, 吕守业, 刘艳博, 李德毅.
+\newblock 基于深度学习的推荐系统研究综述.
+\newblock 计算机学报, 2018, 41(1619-1647)
+
+\bibitem{Steffen:2009:UAI}
+S.~Rendle, C.~Freudenthaler, Z.~Gantner, L.~Schmidt{-}Thieme.
+\newblock {BPR:} Bayesian Personalized Ranking from Implicit Feedback.
+\newblock in: {UAI} 2009, Proceedings of the Twenty-Fifth Conference on
+  Uncertainty in Artificial Intelligence, Montreal, QC, Canada, June 18-21,
+  2009, 2009:452-461
+
+\bibitem{Ai:2018:SIGIR}
+Q.~Ai, K.~Bi, J.~Guo, W.~B. Croft.
+\newblock Learning a deep listwise context model for ranking refinement.
+\newblock in: The 41st International ACM SIGIR Conference on Research and
+  Development in Information Retrieval, 2018:135--144
+
+\bibitem{Ding:2020:NIPS}
+J.~Ding, Y.~Quan, Q.~Yao, Y.~Li, D.~Jin.
+\newblock Simplify and Robustify Negative Sampling for Implicit Collaborative
+  Filtering.
+\newblock in: Proceedings of the International Conference on Neural Information
+  Processing Systems, 2020
+
+\bibitem{SSR:2023:TKDE}
+J.~Yu, H.~Yin, X.~Xia, T.~Chen, J.~Li, Z.~Huang.
+\newblock Self-Supervised Learning for Recommender Systems: A Survey.
+\newblock IEEE Transactions on Knowledge and Data Engineering, 2023, : 1-20
+
+\bibitem{Xiangnan:2020:SIGIR}
+H.~Xiangnan, D.~Kuan, W.~Xiang, L.~Yan, Z.~Yongdong, W.~Meng.
+\newblock LightGCN: Simplifying and Powering Graph Convolution Network for
+  Recommendation.
+\newblock in: Proceedings of the International ACM SIGIR Conference on Research
+  and Development in Information Retrieval, 2020:10
+
+\bibitem{Wang:2019:SIGIR}
+X.~Wang, X.~He, M.~Wang, F.~Feng, T.~S. Chua.
+\newblock Neural Graph Collaborative Filtering.
+\newblock in: Proceedings of the International ACM SIGIR Conference on Research
+  and Development in Information Retrieval, 2019:2344-2353
+
+\bibitem{shuai2022review}
+J.~Shuai, K.~Zhang, L.~Wu, P.~Sun, R.~Hong, M.~Wang, et~al.
+\newblock A review-aware graph contrastive learning framework for
+  recommendation.
+\newblock in: Proceedings of the 45th International ACM SIGIR Conference on
+  Research and Development in Information Retrieval, 2022:1283--1293
+
+\bibitem{guo2022miss}
+W.~Guo, C.~Zhang, Z.~He, J.~Qin, H.~Guo, B.~Chen, et~al.
+\newblock Miss: Multi-interest self-supervised learning framework for
+  click-through rate prediction.
+\newblock in: 2022 IEEE 38th international conference on data engineering
+  (ICDE). IEEE, 2022:727--740
+
+\bibitem{tao2022self}
+Z.~Tao, X.~Liu, Y.~Xia, X.~Wang, L.~Yang, X.~Huang, et~al.
+\newblock Self-supervised learning for multimedia recommendation.
+\newblock IEEE Transactions on Multimedia, 2022
+
+\bibitem{yao2021self}
+T.~Yao, X.~Yi, D.~Z. Cheng, F.~Yu, T.~Chen, A.~Menon, et~al.
+\newblock Self-supervised learning for large-scale item recommendations.
+\newblock in: Proceedings of the 30th ACM International Conference on
+  Information \& Knowledge Management, 2021:4321--4330
+
+\bibitem{xia2021self}
+X.~Xia, H.~Yin, J.~Yu, Q.~Wang, L.~Cui, X.~Zhang.
+\newblock Self-supervised hypergraph convolutional networks for session-based
+  recommendation.
+\newblock in: Proceedings of the AAAI conference on artificial intelligence,
+  2021:4503--4511
+
+\bibitem{liu2021contrastive}
+Z.~Liu, Y.~Ma, Y.~Ouyang, Z.~Xiong.
+\newblock Contrastive learning for recommender system.
+\newblock arXiv preprint arXiv:2101.01317, 2021
+
+\bibitem{yuan2021improving}
+X.~Yuan, H.~Chen, Y.~Song, X.~Zhao, Z.~Ding, Z.~He, et~al.
+\newblock Improving sequential recommendation consistency with self-supervised
+  imitation.
+\newblock arXiv preprint arXiv:2106.14031, 2021
+
+\bibitem{wu2020ptum}
+C.~Wu, F.~Wu, T.~Qi, J.~Lian, Y.~Huang, X.~Xie.
+\newblock Ptum: Pre-training user model from unlabeled user behaviors via
+  self-supervision.
+\newblock arXiv preprint arXiv:2010.01494, 2020
+
+\bibitem{ma2020disentangled}
+J.~Ma, C.~Zhou, H.~Yang, P.~Cui, X.~Wang, W.~Zhu.
+\newblock Disentangled self-supervision in sequential recommenders.
+\newblock in: Proceedings of the 26th ACM SIGKDD International Conference on
+  Knowledge Discovery \& Data Mining, 2020:483--491
+
+\bibitem{10.1145/3459637.3482426}
+J.~Zhang, M.~Gao, J.~Yu, L.~Guo, J.~Li, H.~Yin.
+\newblock Double-Scale Self-Supervised Hypergraph Learning for Group
+  Recommendation.
+\newblock in: Proceedings of the 30th ACM International Conference on
+  Information \& Knowledge Management, 2021:2557–2567
+
+\bibitem{10.1145/3404835.3462862}
+J.~Wu, X.~Wang, F.~Feng, X.~He, L.~Chen, J.~Lian, et~al.
+\newblock Self-Supervised Graph Learning for Recommendation.
+\newblock in: Proceedings of the 44th International ACM SIGIR Conference on
+  Research and Development in Information Retrieval, 2021:726–735
+
+\bibitem{self:aug}
+耿传兴, 谭正豪, 陈松灿.
+\newblock 自监督增广的监督分类学习增强.
+\newblock 软件学报, 2023, 34(1870-1878)
+
+\bibitem{tong2023emp}
+S.~Tong, Y.~Chen, Y.~Ma, Y.~Lecun.
+\newblock EMP-SSL: Towards Self-Supervised Learning in One Training Epoch.
+\newblock arXiv preprint arXiv:2304.03977, 2023
+
+\bibitem{Liu:2021:TKDE}
+X.~Liu, F.~Zhang, Z.~Hou, L.~Mian, Z.~Wang, J.~Zhang, et~al.
+\newblock Self-supervised learning: Generative or contrastive.
+\newblock IEEE Transactions on Knowledge and Data Engineering, 2021
+
+\bibitem{Chen:2020:NIPS}
+T.~Chen, S.~Kornblith, K.~Swersky, M.~Norouzi, G.~E. Hinton.
+\newblock Big self-supervised models are strong semi-supervised learners.
+\newblock Proceedings of the International Conference on Neural Information
+  Processing Systems, 2020, 33:22243--22255
+
+\bibitem{BYOL:2020:NIPS}
+J.-B. Grill, F.~Strub, F.~Altch\'{e}, C.~Tallec, P.~H. Richemond,
+  E.~Buchatskaya, et~al.
+\newblock Bootstrap Your Own Latent a New Approach to Self-Supervised Learning.
+\newblock in: Proceedings of the 34th International Conference on Neural
+  Information Processing Systems, 2020:21271-21284
+
+\bibitem{wu:2023:TKDE}
+L.~Wu, H.~Lin, C.~Tan, Z.~Gao, S.~Z. Li.
+\newblock Self-Supervised Learning on Graphs: Contrastive, Generative, or
+  Predictive.
+\newblock IEEE Transactions on Knowledge and Data Engineering, 2023,
+  35(4):4216-4235
+
+\bibitem{gsl:2023:TKDE}
+Y.~Liu, M.~Jin, S.~Pan, C.~Zhou, Y.~Zheng, F.~Xia, et~al.
+\newblock Graph Self-Supervised Learning: A Survey.
+\newblock IEEE Transactions on Knowledge and Data Engineering, 2023,
+  35(6):5879-5900
+
+\bibitem{sun2019bert4rec}
+F.~Sun, J.~Liu, J.~Wu, C.~Pei, X.~Lin, W.~Ou, et~al.
+\newblock BERT4Rec: Sequential recommendation with bidirectional encoder
+  representations from transformer.
+\newblock in: Proceedings of the 28th ACM international conference on
+  information and knowledge management, 2019:1441--1450
+
+\bibitem{geng2022recommendation}
+S.~Geng, S.~Liu, Z.~Fu, Y.~Ge, Y.~Zhang.
+\newblock Recommendation as language processing (rlp): A unified pretrain,
+  personalized prompt \& predict paradigm (p5).
+\newblock in: Proceedings of the 16th ACM Conference on Recommender Systems,
+  2022:299--315
+
+\bibitem{zhang:sigir}
+Z.~Zhang, B.~Wang.
+\newblock Prompt Learning for News Recommendation.
+\newblock in: Proceedings of the 46th International ACM SIGIR Conference on
+  Research and Development in Information Retrieval, 2023:227–237
+
+\bibitem{Jingtao:2019:IJCAI}
+J.~Ding, Y.~Quan, X.~He, Y.~Li, D.~Jin.
+\newblock Reinforced Negative Sampling for Recommendation with Exposure Data.
+\newblock in: Proceedings of the Twenty-Eighth International Joint Conference
+  on Artificial Intelligence, 2019:2230--2236
+
+\bibitem{lightgcl:2023:ICLR}
+X.~Cai, C.~Huang, L.~Xia, X.~Ren.
+\newblock LightGCL: Simple Yet Effective Graph Contrastive Learning for
+  Recommendation.
+\newblock International Conference on Learning Representations, 2023
+
+\bibitem{zhang:cl}
+张重生, 陈杰, 李岐龙, 邓斌权, 王杰, 陈承功.
+\newblock 深度对比学习综述.
+\newblock 自动化学报, 2023, 49(15-39)
+
+\bibitem{Oord:2018:arxiv}
+A.~v.~d. Oord, Y.~Li, O.~Vinyals.
+\newblock Representation learning with contrastive predictive coding.
+\newblock arXiv preprint arXiv:1807.03748, 2018
+
+\bibitem{Chen:2020:ICML}
+T.~Chen, S.~Kornblith, M.~Norouzi, G.~Hinton.
+\newblock A Simple Framework for Contrastive Learning of Visual
+  Representations.
+\newblock in: International Conference on Machine Learning, 2020:1597--1607
+
+\bibitem{Khosla:2020:NIPS}
+P.~Khosla, P.~Teterwak, C.~Wang, A.~Sarna, Y.~Tian, P.~Isola, et~al.
+\newblock Supervised contrastive learning.
+\newblock in: Proceedings of the International Conference on Neural Information
+  Processing Systems, 2020:18661--18673
+
+\bibitem{graph:CL}
+岑科廷, 沈华伟, 曹婍, 程学旗.
+\newblock 图对比学习综述.
+\newblock 中文信息学报, 2023, 37(1-21)
+
+\bibitem{graph:self}
+张震, 张三峰, 杨望.
+\newblock 基于图对比学习的恶意域名检测方法.
+\newblock 软件学报
+
+\bibitem{cl:bei}
+张北辰, 李亮, 查正军, 黄庆明.
+\newblock 基于跨模态对比学习的视觉问答主动学习方法.
+\newblock 计算机学报, 2022, 45(1730-1745)
+
+\bibitem{xiao:cl}
+肖杨, 秦建阳, 李肯立, 王鸽, 李瑞, 廖清.
+\newblock 基于图对比学习的多模态交通流量协同预测方法.
+\newblock 计算机科学, 2023, 50(135-145)
+
+\bibitem{yang2021enhanced}
+Y.~Yang, L.~Wu, R.~Hong, K.~Zhang, M.~Wang.
+\newblock Enhanced graph learning for collaborative filtering via mutual
+  information maximization.
+\newblock in: Proceedings of the 44th International ACM SIGIR Conference on
+  Research and Development in Information Retrieval, 2021:71--80
+
+\bibitem{cao2021bipartite}
+J.~Cao, X.~Lin, S.~Guo, L.~Liu, T.~Liu, B.~Wang.
+\newblock Bipartite graph embedding via mutual information maximization.
+\newblock in: Proceedings of the 14th ACM international conference on web
+  search and data mining, 2021:635--643
+
+\bibitem{zhou2020s3}
+K.~Zhou, H.~Wang, W.~X. Zhao, Y.~Zhu, S.~Wang, F.~Zhang, et~al.
+\newblock S3-rec: Self-supervised learning for sequential recommendation with
+  mutual information maximization.
+\newblock in: Proceedings of the 29th ACM international conference on
+  information \& knowledge management, 2020:1893--1902
+
+\bibitem{Jiancan:2022:arxiv}
+J.~Wu, X.~Wang, X.~Gao, J.~Chen, H.~Fu, T.~Q. He.
+\newblock On the Effectiveness of Sampled Softmax Loss for Item Recommendation.
+\newblock arXiv preprint arXiv:2201.02327, 2022
+
+\bibitem{10.1145/3477495.3532009}
+Y.~Yang, C.~Huang, L.~Xia, C.~Li.
+\newblock Knowledge Graph Contrastive Learning for Recommendation.
+\newblock in: Proceedings of the 45th International ACM SIGIR Conference on
+  Research and Development in Information Retrieval, 2022:1434–1443
+
+\bibitem{qiu2022contrastive}
+R.~Qiu, Z.~Huang, H.~Yin, Z.~Wang.
+\newblock Contrastive learning for representation degeneration problem in
+  sequential recommendation.
+\newblock in: Proceedings of the fifteenth ACM international conference on web
+  search and data mining, 2022:813--823
+
+\bibitem{yu2023xsimgcl}
+J.~Yu, X.~Xia, T.~Chen, L.~Cui, N.~Q.~V. Hung, H.~Yin.
+\newblock XSimGCL: Towards extremely simple graph contrastive learning for
+  recommendation.
+\newblock IEEE Transactions on Knowledge and Data Engineering, 2023
+
+\bibitem{Chuang:2020:NIPS}
+C.-Y. Chuang, J.~Robinson, Y.-C. Lin, A.~Torralba, S.~Jegelka.
+\newblock Debiased Contrastive Learning.
+\newblock in: Proceedings of the International Conference on Neural Information
+  Processing Systems, 2020:8765--8775
+
+\bibitem{He:2020:CVPR}
+K.~He, H.~Fan, Y.~Wu, S.~Xie, R.~Girshick.
+\newblock Momentum contrast for unsupervised visual representation learning.
+\newblock in: Proceedings of the IEEE/CVF conference on Computer Vision and
+  Pattern Recognition, 2020:9729--9738
+
+\bibitem{Bradley:1952:Biometrika}
+R.~A. Bradley, M.~E. Terry.
+\newblock Rank Analysis of Incomplete Block Designs: I. The Method of Paired
+  Comparisons.
+\newblock Biometrika, 1952, 39(3/4):324-345
+
+\bibitem{Luce:2005:JASA}
+R.~D. Luce.
+\newblock Individual Choice Behavior: A Theoretical Analysis.
+\newblock Journal of the American Statistical Association, 2005, 67(293):1-15
+
+\bibitem{Steffen:2014:WSDM}
+S.~Rendle, C.~Freudenthaler.
+\newblock Improving pairwise learning for item recommendation from implicit
+  feedback.
+\newblock in: Proceedings of the 7th ACM international conference on Web Search
+  and Data Mining, 2014:273-282
+
+\bibitem{Weike:2013:IJCAI}
+W.~Pan, L.~Chen.
+\newblock Gbpr: Group preference based bayesian personalized ranking for
+  one-class collaborative filtering.
+\newblock in: Twenty-Third International Joint Conference on Artificial
+  Intelligence, 2013
+
+\bibitem{Yu:2018:CIKM}
+R.~Yu, Y.~Zhang, Y.~Ye, L.~Wu, C.~Wang, Q.~Liu, et~al.
+\newblock Multiple pairwise ranking with implicit feedback.
+\newblock in: Proceedings of the 27th ACM Int. Conference on Information and
+  Knowledge Management, ACM, 2018:1727-1730
+
+\bibitem{Xiaoye:2011:MathProg}
+X.~Jiang, L.-H. Lim, Y.~Yao, Y.~Ye.
+\newblock Statistical ranking and combinatorial Hodge theory.
+\newblock Mathematical Programming, 2011, 127(1):203-244
+
+\bibitem{Xuejiao:2020:ASC}
+X.~Yang, B.~Wang.
+\newblock Local ranking and global fusion for personalized recommendation.
+\newblock Applied Soft Computing, 2020, 96(1):106636
+
+\bibitem{Qiu:2018:IS}
+H.~Qiu, Y.~Liu, G.~Guo, Z.~Sun, J.~Zhang, H.~T. Nguyen.
+\newblock {BPRH}: Bayesian personalized ranking for heterogeneous implicit
+  feedback.
+\newblock Information Sciences, 2018, 453:80-98
+
+\bibitem{Zhao:2019:FGCS}
+F.~Zhao, Y.~Shen, X.~Gui, J.~H.
+\newblock {SDBPR}: Social distance-aware bayesian personalized ranking for
+  recommendation.
+\newblock Future Generation Computer Systems, 2019, 95:372-381
+
+\bibitem{Xu:2022:arxiv}
+L.~Xu, J.~Lian, W.~X. Zhao, M.~Gong, L.~Shou, D.~Jiang, et~al.
+\newblock Negative Sampling for Contrastive Representation Learning: A Review.
+\newblock arXiv preprint arXiv:2206.00212, 2022
+
+\bibitem{Gutmann:2010:ICAIS}
+M.~Gutmann, A.~Hyv{\"a}rinen.
+\newblock Noise-contrastive estimation: A new estimation principle for
+  unnormalized statistical models.
+\newblock in: Proceedings of the thirteenth international conference on
+  artificial intelligence and statistics, 2010:297--304
+
+\bibitem{gutmann:2012:JMLR}
+M.~U. Gutmann, A.~Hyv{\"a}rinen.
+\newblock Noise-Contrastive Estimation of Unnormalized Statistical Models, with
+  Applications to Natural Image Statistics.
+\newblock Journal of Machine Learning Research, 2012, 13(2)
+
+\bibitem{Devlin:2018:bert}
+J.~Devlin, M.-W. Chang, K.~Lee, K.~Toutanova.
+\newblock Bert: Pre-training of deep bidirectional transformers for language
+  understanding.
+\newblock arXiv preprint arXiv:1810.04805, 2018
+
+\bibitem{Dosovitskiy:2014:NIPS}
+A.~Dosovitskiy, J.~T. Springenberg, M.~Riedmiller, T.~Brox.
+\newblock Discriminative unsupervised feature learning with convolutional
+  neural networks.
+\newblock in: Proceedings of the International Conference on Neural Information
+  Processing Systems, 2014:766–774
+
+\bibitem{Wenqi:2021:KDD}
+F.~Wenqi, L.~Xiaorui, J.~Wei, Z.~Xiangyu, T.~Jiliang, L.~Qing.
+\newblock Graph Trend Networks for Recommendations.
+\newblock in: Proceedings of the ACM SIGKDD Conference on Knowledge Discovery
+  and Data Mining, 2021:12
+
+\bibitem{Wang:2020:ICML}
+T.~Wang, P.~Isola.
+\newblock Understanding contrastive representation learning through alignment
+  and uniformity on the hypersphere.
+\newblock in: International Conference on Machine Learning, 2020:9929--9939
+
+\bibitem{Hjelm:2018:Arxiv}
+R.~D. Hjelm, A.~Fedorov, S.~Lavoie-Marchildon, K.~Grewal, P.~Bachman,
+  A.~Trischler, et~al.
+\newblock Learning deep representations by mutual information estimation and
+  maximization.
+\newblock arXiv preprint arXiv:1808.06670, 2018
+
+\bibitem{Saunshi:2019:ICML}
+N.~Saunshi, O.~Plevrakis, S.~Arora, M.~Khodak, H.~Khandeparkar.
+\newblock A theoretical analysis of contrastive unsupervised representation
+  learning.
+\newblock in: International Conference on Machine Learning, 2019:5628--5637
+
+\bibitem{Henaff:2020:ICML}
+O.~Henaff.
+\newblock Data-efficient image recognition with contrastive predictive coding.
+\newblock in: International Conference on Machine Learning, 2020:4182--4192
+
+\bibitem{Bachman:2019:NIPS}
+P.~Bachman, R.~D. Hjelm, W.~Buchwalter.
+\newblock Learning representations by maximizing mutual information across
+  views.
+\newblock 2019
+
+\bibitem{chen2020improved}
+X.~Chen, H.~Fan, R.~Girshick, K.~He.
+\newblock Improved baselines with momentum contrastive learning.
+\newblock arXiv preprint arXiv:2003.04297, 2020
+
+\bibitem{Huang:2019:ICML}
+J.~Huang, Q.~Dong, S.~Gong, X.~Zhu.
+\newblock Unsupervised deep learning by neighbourhood discovery.
+\newblock in: International Conference on Machine Learning, 2019:2849--2858
+
+\bibitem{Wu:2018:CVPR}
+Z.~Wu, Y.~Xiong, S.~X. Yu, D.~Lin.
+\newblock Unsupervised feature learning via non-parametric instance
+  discrimination.
+\newblock in: Proceedings of the IEEE/CVF conference on Computer Vision and
+  Pattern Recognition, 2018:3733--3742
+
+\bibitem{Zhuang:2019:CVPR}
+C.~Zhuang, A.~L. Zhai, D.~Yamins.
+\newblock Local aggregation for unsupervised learning of visual embeddings.
+\newblock in: Proceedings of the IEEE/CVF conference on Computer Vision and
+  Pattern Recognition, 2019:6002--6012
+
+\bibitem{Lerche:2014:RS}
+L.~Lerche, D.~Jannach.
+\newblock Using graded implicit feedback for bayesian personalized ranking.
+\newblock in: Proceedings of the 8th ACM Conference on Recommender systems,
+  2014:353-356
+
+\bibitem{Wenhui:2019:WWW}
+W.~Yu, Z.~Qin.
+\newblock Spectrum-enhanced Pairwise Learning to Rank.
+\newblock in: World Wide Web Conference, 2019:2247-2257
+
+\bibitem{Bin:2020:IS}
+B.~Wu, Y.~Ye.
+\newblock BSPR: Basket-sensitive personalized ranking for product
+  recommendation.
+\newblock Information Sciences, 2020, 541(1):185-206
+
+\bibitem{ren2023disentangled}
+X.~Ren, L.~Xia, J.~Zhao, D.~Yin, C.~Huang.
+\newblock Disentangled Contrastive Collaborative Filtering.
+\newblock arXiv preprint arXiv:2305.02759, 2023
+
+\bibitem{he2023candidate}
+W.~He, G.~Sun, J.~Lu, X.~S. Fang.
+\newblock Candidate-aware Graph Contrastive Learning for Recommendation.
+\newblock in: Proceedings of the 46th International ACM SIGIR Conference on
+  Research and Development in Information Retrieval, 2023:1670--1679
+
+\bibitem{yang2023generative}
+Y.~Yang, Z.~Wu, L.~Wu, K.~Zhang, R.~Hong, Z.~Zhang, et~al.
+\newblock Generative-Contrastive Graph Learning for Recommendation.
+\newblock in: Proceedings of the 46th International ACM SIGIR Conference on
+  Research and Development in Information Retrieval, 2023
+
+\bibitem{Zhang:2013:SIGIR}
+W.~Zhang, T.~Chen, J.~Wang, Y.~Yu.
+\newblock Optimizing Top-n Collaborative Filtering via Dynamic Negative Item
+  Sampling.
+\newblock in: Proceedings of the 36th International ACM SIGIR Conference on
+  Research and Development in Information Retrieval, 2013:785–788
+
+\bibitem{Zhao:2015:CIKM}
+T.~Zhao, J.~McAuley, I.~King.
+\newblock Improving Latent Factor Models via Personalized Feature Projection
+  for One Class Recommendation.
+\newblock in: Proceedings of the 24th ACM International on Conference on
+  Information and Knowledge Management, 2015:821–830
+
+\bibitem{shi2023theories}
+W.~Shi, J.~Chen, F.~Feng, J.~Zhang, J.~Wu, C.~Gao, et~al.
+\newblock On the Theories Behind Hard Negative Sampling for Recommendation.
+\newblock in: Proceedings of the ACM Web Conference 2023, 2023:812--822
+
+\bibitem{Qin:2021:AAAI}
+X.~Qin, N.~Sheikh, B.~Reinwald, L.~Wu.
+\newblock Relation-aware Graph Attention Model With Adaptive Self-adversarial
+  Training.
+\newblock in: Proceedings of the AAAI Conference on Artificial Intelligence,
+  2021:9368--9376
+
+\bibitem{Zhao:2021:IJCAI}
+H.~Zhao, X.~Yang, Z.~Wang, E.~Yang, C.~Deng.
+\newblock Graph debiased contrastive learning with joint representation
+  clustering.
+\newblock in: Proceedings of the International Joint Conference on Artificial
+  Intelligence, 2021:3434--3440
+
+\bibitem{Chen:2017:KDD}
+T.~Chen, Y.~Sun, Y.~Shi, L.~Hong.
+\newblock On Sampling Strategies for Neural Network-Based Collaborative
+  Filtering.
+\newblock in: Proceedings of the 23rd ACM SIGKDD International Conference on
+  Knowledge Discovery and Data Mining, 2017:767–776
+
+\bibitem{Mikolov:2013:NIPS}
+T.~Mikolov, I.~Sutskever, K.~Chen, G.~Corrado, J.~Dean.
+\newblock Distributed Representations of Words and Phrases and Their
+  Compositionality.
+\newblock in: Proceedings of the 26th International Conference on Neural
+  Information Processing Systems, 2013:3111–3119
+
+\bibitem{Wang:2022:KDD}
+C.~Wang, Y.~Yu, W.~Ma, M.~Zhang, C.~Chen, Y.~Liu, et~al.
+\newblock Towards Representation Alignment and Uniformity in Collaborative
+  Filtering.
+\newblock in: Proceedings of the 28th ACM SIGKDD Conference on Knowledge
+  Discovery and Data Mining, 2022:1816–1825
+
+\bibitem{zhu2023adamcl}
+G.~Zhu, W.~Lu, C.~Yuan, Y.~Huang.
+\newblock AdaMCL: Adaptive Fusion Multi-View Contrastive Learning for
+  Collaborative Filtering.
+\newblock in: Proceedings of the 46th International ACM SIGIR Conference on
+  Research and Development in Information Retrieval, 2023:1076--1085
+
+\bibitem{qin2023meta}
+X.~Qin, H.~Yuan, P.~Zhao, J.~Fang, F.~Zhuang, G.~Liu, et~al.
+\newblock Meta-optimized Contrastive Learning for Sequential Recommendation.
+\newblock arXiv preprint arXiv:2304.07763, 2023
+
+\bibitem{Wang:2021:WSDM}
+W.~Wang, F.~Feng, X.~He, L.~Nie, T.-S. Chua.
+\newblock Denoising implicit feedback for recommendation.
+\newblock in: Proceedings of the 14th ACM international conference on web
+  search and data mining, 2021:373--381
+
+\bibitem{Yang:2020:KDD}
+Z.~Yang, M.~Ding, C.~Zhou, H.~Yang, J.~Zhou, J.~Tang.
+\newblock Understanding negative sampling in graph representation learning.
+\newblock in: Proceedings of the 26th ACM SIGKDD International Conference on
+  Knowledge Discovery \& Data Mining, 2020:1666--1676
+
+\bibitem{ml:2018}
+周志华.
+\newblock 机器学习.
+\newblock 航空港, 2018
+
+\bibitem{Han:2018:NIPS}
+B.~Han, Q.~Yao, X.~Yu, G.~Niu, M.~Xu, W.~Hu, et~al.
+\newblock Co-teaching: Robust training of deep neural networks with extremely
+  noisy labels.
+\newblock in: Advances in neural information processing systems, 2018:31
+
+\bibitem{Arpit:2017:ICML}
+D.~Arpit, S.~Jastrzkebski, N.~Ballas, D.~Krueger, E.~Bengio, M.~S. Kanwal,
+  et~al.
+\newblock A closer look at memorization in deep networks.
+\newblock in: International conference on machine learning, 2017:233--242
+
+\bibitem{Li:2021:ICLR}
+J.~{Li}, P.~{Zhou}, C.~{Xiong}, S.~C.~H. {Hoi}.
+\newblock Prototypical Contrastive Learning of Unsupervised Representations.
+\newblock in: International Conference on Learning Representations,
+  2021:353-356
+
+\bibitem{Zhang:2020:ACM}
+S.~Zhang, L.~Yao, A.~Sun, Y.~Tay.
+\newblock Deep Learning Based Recommender System: A Survey and New
+  Perspectives.
+\newblock ACM Comput. Surv., 2019, 52(1)
+
+\bibitem{GCC:2020:KDD}
+J.~Qiu, Q.~Chen, Y.~Dong, J.~Zhang, H.~Yang, M.~Ding, et~al.
+\newblock GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training.
+\newblock in: Proceedings of the 26th ACM SIGKDD International Conference on
+  Knowledge Discovery \& Data Mining, 2020:1150–1160
+
+\bibitem{velivckovic2018deep}
+P.~Veli{\v{c}}kovi{\'c}, W.~Fedus, W.~L. Hamilton, P.~Li{\`o}, Y.~Bengio, R.~D.
+  Hjelm.
+\newblock Deep graph infomax.
+\newblock arXiv preprint arXiv:1809.10341, 2018
+
+\bibitem{Robinson:2021:ICLR}
+J.~Robinson, C.~Ching-Yao, S.~Sra, S.~Jegelka.
+\newblock Contrastive Learning with Hard Negative Samples.
+\newblock in: International Conference on Learning Representations, 2021
+
+\bibitem{10.1145/3543507.3583251}
+X.~Zhou, H.~Zhou, Y.~Liu, Z.~Zeng, C.~Miao, P.~Wang, et~al.
+\newblock Bootstrap Latent Representations for Multi-Modal Recommendation.
+\newblock in: Proceedings of the ACM Web Conference 2023, 2023:845–854
+
+\bibitem{wang2023sequential}
+C.~Wang, W.~Ma, C.~Chen, M.~Zhang, Y.~Liu, S.~Ma.
+\newblock Sequential recommendation with multiple contrast signals.
+\newblock ACM Transactions on Information Systems, 2023, 41(1):1--27
+
+\bibitem{xie2022contrastive}
+X.~Xie, F.~Sun, Z.~Liu, S.~Wu, J.~Gao, J.~Zhang, et~al.
+\newblock Contrastive learning for sequential recommendation.
+\newblock in: 2022 IEEE 38th international conference on data engineering
+  (ICDE). IEEE, 2022:1259--1273
+
+\bibitem{lin2022improving}
+Z.~Lin, C.~Tian, Y.~Hou, W.~X. Zhao.
+\newblock Improving graph collaborative filtering with neighborhood-enriched
+  contrastive learning.
+\newblock in: Proceedings of the ACM Web Conference 2022, 2022:2320--2329
+
+\bibitem{yu2022graph}
+J.~Yu, H.~Yin, X.~Xia, T.~Chen, L.~Cui, Q.~V.~H. Nguyen.
+\newblock Are graph augmentations necessary? simple graph contrastive learning
+  for recommendation.
+\newblock in: Proceedings of the 45th International ACM SIGIR Conference on
+  Research and Development in Information Retrieval, 2022:1294--1303
+
+\bibitem{liu2021pre}
+Y.~Liu, S.~Yang, C.~Lei, G.~Wang, H.~Tang, J.~Zhang, et~al.
+\newblock Pre-training graph transformer with multimodal side information for
+  recommendation.
+\newblock in: Proceedings of the 29th ACM International Conference on
+  Multimedia, 2021:2853--2861
+
+\bibitem{liu2021augmenting}
+Z.~Liu, Z.~Fan, Y.~Wang, P.~S. Yu.
+\newblock Augmenting sequential recommendation with pseudo-prior items via
+  reversely pre-training transformer.
+\newblock in: Proceedings of the 44th International ACM SIGIR Conference on
+  Research and Development in Information Retrieval, 2021:1608--1612
+
+\bibitem{kang2018self}
+W.-C. Kang, J.~McAuley.
+\newblock Self-attentive sequential recommendation.
+\newblock in: 2018 IEEE international conference on data mining (ICDM),
+  2018:197--206
+
+\bibitem{jiang2021sequential}
+J.~Jiang, Y.~Luo, J.~B. Kim, K.~Zhang, S.~Kim.
+\newblock Sequential recommendation with bidirectional chronological
+  augmentation of transformer.
+\newblock arXiv preprint arXiv:2112.06460, 2021
+
+\bibitem{lee2021bootstrapping}
+D.~Lee, S.~Kang, H.~Ju, C.~Park, H.~Yu.
+\newblock Bootstrapping user and item representations for one-class
+  collaborative filtering.
+\newblock in: Proceedings of the 44th International ACM SIGIR Conference on
+  Research and Development in Information Retrieval, 2021:317--326
+
+\bibitem{bian2021contrastive}
+S.~Bian, W.~X. Zhao, K.~Zhou, J.~Cai, Y.~He, C.~Yin, et~al.
+\newblock Contrastive curriculum learning for sequential user behavior modeling
+  via data augmentation.
+\newblock in: Proceedings of the 30th ACM International Conference on
+  Information \& Knowledge Management, 2021:3737--3746
+
+\bibitem{wang2023curriculum}
+H.~Wang, K.~Zhou, X.~Zhao, J.~Wang, J.-R. Wen.
+\newblock Curriculum pre-training heterogeneous subgraph transformer for top-n
+  recommendation.
+\newblock ACM Transactions on Information Systems, 2023, 41(1):1--28
+
+\bibitem{li:2019}
+李航.
+\newblock 统计学习方法.
+\newblock 清华大学出版社, 2019
+
+\bibitem{Park:2019:WWW}
+D.~H. Park, Y.~Chang.
+\newblock Adversarial Sampling and Training for Semi-Supervised Information
+  Retrieval.
+\newblock in: World Wide Web Conference, 2019:1443–1453
+
+\bibitem{Huang:2021:KDD}
+T.~Huang, Y.~Dong, M.~Ding, Z.~Yang, W.~Feng, X.~Wang, et~al.
+\newblock MixGCF: An Improved Training Method for Graph Neural Network-Based
+  Recommender Systems.
+\newblock in: Proceedings of the 27th ACM SIGKDD Conference on Knowledge
+  Discovery \& Data Mining, 2021:665–674
+
+\bibitem{Ding:2019:IJCAI}
+J.~Ding, Y.~Quan, X.~He, Y.~Li, D.~Jin.
+\newblock Reinforced Negative Sampling for Recommendation with Exposure Data.
+\newblock in: Proceedings of the International Joint Conference on Artificial
+  Intelligence, 2019:2230--2236
+
+\bibitem{Wang:2020:WWW}
+X.~Wang, Y.~Xu, X.~He, Y.~Cao, M.~Wang, Chua.
+\newblock Reinforced negative sampling over knowledge graph for recommendation.
+\newblock in: Proceedings of International Conference on World Wide Web,
+  2020:99--109
+
+\bibitem{Wang:2021:CIKM}
+Y.~Wang, Z.~Liu, Z.~Fan, L.~Sun, P.~S. Yu.
+\newblock Dskreg: Differentiable sampling on knowledge graph for recommendation
+  with relational gnn.
+\newblock in: Proceedings of the 30th ACM International Conference on
+  Information \& Knowledge Management, 2021:3513--3517
+
+\bibitem{Chen:2019:WWW}
+J.~Chen, C.~Wang, S.~Zhou, Q.~Shi, Y.~Feng, C.~Chen.
+\newblock Samwalker: Social recommendation with informative sampling strategy.
+\newblock in: Proceedings International Conference on World Wide Web,
+  2019:228--239
+
+\bibitem{Wang:2021:TKDE}
+C.~Wang, J.~Chen, S.~Zhou, Q.~Shi, Y.~Feng, C.~Chen.
+\newblock SamWalker++: recommendation with informative sampling strategy.
+\newblock IEEE Transactions on Knowledge and Data Engineering, 2021
+
+\bibitem{Ying:2018:KDD}
+R.~Ying, R.~He, K.~Chen, P.~Eksombatchai, W.~L. Hamilton, J.~Leskovec.
+\newblock Graph Convolutional Neural Networks for Web-Scale Recommender
+  Systems.
+\newblock in: Proceedings of the ACM SIGKDD Conference on Knowledge Discovery
+  and Data Mining, 2018:974-983
+
+\bibitem{Zhao:2014:CIKM}
+T.~Zhao, J.~McAuley, I.~King.
+\newblock Leveraging social connections to improve personalized ranking for
+  collaborative filtering.
+\newblock in: Proceedings of the 23rd ACM international conference on
+  conference on information and knowledge management, 2014:261--270
+
+\bibitem{Wang:2016:CIKM}
+X.~Wang, W.~Lu, M.~Ester, C.~Wang, C.~Chen.
+\newblock Social recommendation with strong and weak ties.
+\newblock in: Proceedings of the 25th ACM International on Conference on
+  Information and Knowledge Management, 2016:5--14
+
+\bibitem{Yuan:2016:IJCAI}
+F.~Yuan, J.~M. Jose, G.~Guo, L.~Chen, H.~Yu, R.~S. Alkhawaldeh.
+\newblock Joint geo-spatial preference and pairwise ranking for
+  point-of-interest recommendation.
+\newblock in: 2016 IEEE 28th International Conference on Tools with Artificial
+  Intelligence (ICTAI), 2016:46--53
+
+\bibitem{Liu:2019:IJCAI}
+W.~Liu, Z.-J. Wang, B.~Yao, J.~Yin.
+\newblock Geo-ALM: POI Recommendation by Fusing Geographical Information and
+  Adversarial Learning Mechanism.
+\newblock in: Proceedings of the International Joint Conference on Artificial
+  Intelligence, 2019:1807--1813
+
+\bibitem{Jingtao:2018:WWW}
+J.~Ding, F.~Feng, X.~He, G.~Yu, Y.~Li, D.~Jin.
+\newblock An Improved Sampler for Bayesian Personalized Ranking by Leveraging
+  View Data.
+\newblock in: Companion Proceedings of the The Web Conference 2018,
+  2018:13–14
+
+\bibitem{Jun:2017:SIGIR}
+J.~Wang, L.~Yu, W.~Zhang, Y.~Gong, Y.~Xu, B.~Wang, et~al.
+\newblock IRGAN: A Minimax Game for Unifying Generative and Discriminative
+  Information Retrieval Models.
+\newblock in: Proceedings of the International ACM SIGIR Conference on Research
+  and Development in Information Retrieval, 2017:515–524
+
+\bibitem{zhu:2021:iccv}
+R.~Zhu, B.~Zhao, J.~Liu, Z.~Sun, C.~W. Chen.
+\newblock Improving contrastive learning by visualizing feature transformation.
+\newblock in: Proceedings of the IEEE/CVF International Conference on Computer
+  Vision, 2021:10306--10315
+
+\bibitem{zhong:2021:cvpr}
+Z.~Zhong, E.~Fini, S.~Roy, Z.~Luo, E.~Ricci, N.~Sebe.
+\newblock Neighborhood contrastive learning for novel class discovery.
+\newblock in: Proceedings of the IEEE/CVF conference on Computer Vision and
+  Pattern Recognition, 2021:10867--10875
+
+\bibitem{Komodakis:2018:ICLR}
+N.~Komodakis, S.~Gidaris.
+\newblock Unsupervised representation learning by predicting image rotations.
+\newblock in: International Conference on Learning Representations, 2018
+
+\bibitem{Szegedy:2015:CVPR}
+C.~Szegedy, W.~Liu, Y.~Jia, P.~Sermanet, S.~Reed, D.~Anguelov, et~al.
+\newblock Going deeper with convolutions.
+\newblock in: Proceedings of the IEEE/CVF conference on Computer Vision and
+  Pattern Recognition, 2015:1--9
+
+\bibitem{liu2022local}
+S.~Liu, R.~Ying, H.~Dong, L.~Li, T.~Xu, Y.~Rong, et~al.
+\newblock Local augmentation for graph neural networks.
+\newblock in: International Conference on Machine Learning. PMLR,
+  2022:14054--14072
+
+\bibitem{zhu2020deep}
+Y.~Zhu, Y.~Xu, F.~Yu, Q.~Liu, S.~Wu, L.~Wang.
+\newblock Deep graph contrastive representation learning.
+\newblock arXiv preprint arXiv:2006.04131, 2020
+
+\bibitem{you2020graph}
+Y.~You, T.~Chen, Y.~Sui, T.~Chen, Z.~Wang, Y.~Shen.
+\newblock Graph contrastive learning with augmentations.
+\newblock Advances in neural information processing systems, 2020,
+  33:5812--5823
+
+\bibitem{pmlr-v139-you21a}
+Y.~You, T.~Chen, Y.~Shen, Z.~Wang.
+\newblock Graph Contrastive Learning Automated.
+\newblock in: Proceedings of the 38th International Conference on Machine
+  Learning, 2021:12121--12132
+
+\bibitem{pmlr-v119-zheng20d}
+C.~Zheng, B.~Zong, W.~Cheng, D.~Song, J.~Ni, W.~Yu, et~al.
+\newblock Robust Graph Representation Learning via Neural Sparsification.
+\newblock in: Proceedings of the 37th International Conference on Machine
+  Learning, 2020:11458--11468
+
+\bibitem{10.1145/3437963.3441734}
+D.~Luo, W.~Cheng, W.~Yu, B.~Zong, J.~Ni, H.~Chen, et~al.
+\newblock Learning to Drop: Robust Graph Neural Network via Topological
+  Denoising.
+\newblock in: Proceedings of the 14th ACM International Conference on Web
+  Search and Data Mining, 2021:779–787
+
+\bibitem{10.1145/3437963.3441720}
+T.~Zhao, X.~Zhang, S.~Wang.
+\newblock GraphSMOTE: Imbalanced Node Classification on Graphs with Graph
+  Neural Networks.
+\newblock in: Proceedings of the 14th ACM International Conference on Web
+  Search and Data Mining, 2021:833–841
+
+\bibitem{page1998pagerank}
+L.~Page.
+\newblock The pagerank citation ranking: Bringing order to the web. Technical
+  report.
+\newblock Stanford Digital Library Technologies Project, 1998, 1998
+
+\bibitem{jing2021understanding}
+L.~Jing, P.~Vincent, Y.~LeCun, Y.~Tian.
+\newblock Understanding dimensional collapse in contrastive self-supervised
+  learning.
+\newblock International Conference on Learning Representations, 2021
+
+\bibitem{Feng:2021:CVPR}
+F.~Wang, H.~Liu.
+\newblock Understanding the Behaviour of Contrastive Loss.
+\newblock in: Proceedings of the IEEE/CVF conference on Computer Vision and
+  Pattern Recognition, 2021:2495--2504
+
+\bibitem{yeh:2022:ECCV}
+C.-H. Yeh, C.-Y. Hong, Y.-C. Hsu, T.-L. Liu, Y.~Chen, Y.~LeCun.
+\newblock Decoupled contrastive learning.
+\newblock in: European Conference on Computer Vision. Springer, 2022:668--684
+
+\bibitem{Arora:2019:ICML}
+S.~Arora, H.~Khandeparkar, M.~Khodak, O.~Plevrakis, N.~Saunshi.
+\newblock A Theoretical Analysis of Contrastive Unsupervised Representation
+  Learning.
+\newblock in: International Conference on Machine Learning, 2019:5628--5637
+
+\bibitem{mou:2006}
+茆诗松, 王静龙, 濮晓龙.
+\newblock 高等数理统计.
+\newblock 高等教育出版社, 2006
+
+\bibitem{glivenko:1933}
+V.~Glivenko.
+\newblock Sulla determinazione empirica delle leggi di probabilita.
+\newblock Gion. Ist. Ital. Attauri., 1933, 4:92--99
+
+\bibitem{David:2004}
+H.~A. David, H.~N. Nagaraja.
+\newblock Order statistics.
+\newblock 2004
+
+\bibitem{beye:book}
+茆诗松.
+\newblock 贝叶斯统计.
+\newblock 贝叶斯统计, 1999
+
+\bibitem{Menon:2018:ML}
+A.~K. Menon, B.~Van~Rooyen, N.~Natarajan.
+\newblock Learning from binary labels with instance-dependent noise.
+\newblock Machine Learning, 2018, 107:1561--1595
+
+\bibitem{patrini:2017:CVPR}
+G.~Patrini, A.~Rozza, A.~Krishna~Menon, R.~Nock, L.~Qu.
+\newblock Making deep neural networks robust to label noise: A loss correction
+  approach.
+\newblock in: Proceedings of the IEEE Conference on Computer Vision and Pattern
+  Recognition, 2017:1944--1952
+
+\bibitem{liu2015classification}
+T.~Liu, D.~Tao.
+\newblock Classification with noisy labels by importance reweighting.
+\newblock IEEE Transactions on pattern analysis and machine intelligence, 2015,
+  38(3):447--461
+
+\bibitem{xia:2019:NIPS}
+X.~Xia, T.~Liu, N.~Wang, B.~Han, C.~Gong, G.~Niu, et~al.
+\newblock Are anchor points really indispensable in label-noise learning?
+\newblock in: Proceedings of the International Conference on Neural Information
+  Processing Systems, 2019
+
+\bibitem{zhang2021understanding}
+C.~Zhang, S.~Bengio, M.~Hardt, B.~Recht, O.~Vinyals.
+\newblock Understanding deep learning (still) requires rethinking
+  generalization.
+\newblock Communications of the ACM, 2021, 64(3):107--115
+
+\bibitem{li2020gradient}
+M.~Li, M.~Soltanolkotabi, S.~Oymak.
+\newblock Gradient descent with early stopping is provably robust to label
+  noise for overparameterized neural networks.
+\newblock in: International conference on artificial intelligence and
+  statistics. PMLR, 2020:4313--4324
+
+\bibitem{Madan:1990:Business}
+D.~B. Madan, E.~Seneta.
+\newblock The variance gamma (VG) model for share market returns.
+\newblock Journal of business, 1990, 41(A):511-524
+
+\bibitem{Senata:2004:ApplyPro}
+E.~Seneta.
+\newblock Fitting the variance-gamma model to financial data.
+\newblock Journal of applied probability, 2004, 41(A):177-187
+
+\bibitem{Dempster:1977:RSS}
+A.~P. Dempster, N.~M. Laird, D.~B. Rubin.
+\newblock Maximum likelihood from incomplete data via the EM algorithm.
+\newblock Journal of the Royal Statistical Society: Series B (Methodological),
+  1977, 39(1):1-22
+
+\bibitem{Tang:2015:WWW}
+J.~Tang, M.~Qu, M.~Wang, M.~Zhang, J.~Yan, Q.~Mei.
+\newblock LINE: Large-Scale Information Network Embedding.
+\newblock in: Proceedings International Conference on World Wide Web,
+  2015:1067–1077
+
+\bibitem{Herschtal:2004:ICML}
+A.~Herschtal, B.~Raskutti.
+\newblock Optimising area under the ROC curve using gradient descent.
+\newblock in: Proceedings of the twenty-first International conference on
+  Machine learning, 2004:49
+
+\bibitem{Xiangnan:2016SIGIR}
+X.~He, H.~Zhang, M.-Y. Kan, T.-S. Chua.
+\newblock Fast matrix factorization for online recommendation with implicit
+  feedback.
+\newblock in: Proceedings of the 39th International ACM SIGIR conference on
+  Research and Development in Information Retrieval, 549--558:2016
+
+\bibitem{sugiyama2022machine}
+M.~Sugiyama, H.~Bao, T.~Ishida, N.~Lu, T.~Sakai.
+\newblock Machine learning from weak supervision: An empirical risk
+  minimization approach.
+\newblock MIT Press, 2022
+
+\bibitem{Zizhuo:2021:ICDM}
+Z.~Zhang, B.~Wang.
+\newblock Graph Neighborhood Routing and Random Walk for Session-based
+  Recommendation.
+\newblock in: IEEE International Conference on Data Mining (ICDM),
+  2021:1517-1522
+
+\bibitem{McFadden:1974:FE}
+D.~McFadden.
+\newblock Conditional logit analysis of qualitative choice behavior.
+\newblock Frontiers in Econometrics, 1974
+
+\bibitem{Su:2021:IJCAI}
+G.~Su, W.~Chen, M.~Xu.
+\newblock Positive-unlabeled learning from imbalanced data.
+\newblock in: Proceedings of the 30th International Joint Conference on
+  Artificial Intelligence, Virtual Event, 2021:2995--3001
+
+\bibitem{Christoffel:2016:ACML}
+M.~Christoffel, G.~Niu, M.~Sugiyama.
+\newblock Class-prior estimation for learning from positive and unlabeled data.
+\newblock in: Asian Conference on Machine Learning, 2016:221--236
+
+\bibitem{Jain:2016:NIPS}
+S.~Jain, M.~White, P.~Radivojac.
+\newblock Estimating the class prior and posterior from noisy positives and
+  unlabeled data.
+\newblock in: Advances in Neural Information Processing Systems, 2016
+
+\bibitem{Du:2015:ICML}
+M.~Du~Plessis, G.~Niu, M.~Sugiyama.
+\newblock Convex formulation for learning from positive and unlabeled data.
+\newblock in: International conference on machine learning. PMLR,
+  2015:1386--1394
+
+\bibitem{Du:2014:NIPS}
+M.~C. Du~Plessis, G.~Niu, M.~Sugiyama.
+\newblock Analysis of learning from positive and unlabeled data.
+\newblock in: Proceedings of the International Conference on Neural Information
+  Processing Systems, 2014
+
+\bibitem{Jessa:2020:ML}
+B.~Jessa, D.~Jesse.
+\newblock Learning from positive and unlabeled data: a survey.
+\newblock Machine Learning, 2020, 109:719–760
+
+\bibitem{tao:shi}
+陶哲轩.
+\newblock 陶哲轩实分析.
+\newblock 人民邮电出版社, 2018
+
+\bibitem{Ding:2019:NeurIPS}
+J.~Ding, Y.~Quan, Q.~Yao, Y.~Li, D.~Jin.
+\newblock Simplify and Robustify Negative Sampling for Implicit Collaborative
+  Filtering.
+\newblock in: Proceedings of the International Conference on Neural Information
+  Processing Systems, 2019
+
+\bibitem{Ben:2019:ICML}
+B.~Poole, S.~Ozair, A.~Oord, A.~A. Alemi, G.~Tucker.
+\newblock On Variational Bounds of Mutual Information.
+\newblock in: International Conference on Machine Learning, 2019:5171--5180
+
+\bibitem{Belghazi:2018:ICML}
+M.~I. Belghazi, A.~Baratin, S.~Rajeswar, S.~Ozair, Y.~Bengio, A.~Courville,
+  et~al.
+\newblock MINE:Mutual Information Neural Estimation.
+\newblock in: International Conference on Machine Learning, 2018
+
+\bibitem{Xia:2022:ICML}
+J.~Xia, L.~Wu, G.~Wang, J.~Chen, S.~Z. Li.
+\newblock ProGCL: Rethinking Hard Negative Mining in Graph Contrastive
+  Learning.
+\newblock in: International Conference on Machine Learning, 2022:24332--24346
+
+\bibitem{Lindsay:1995}
+B.~Lindsay.
+\newblock Mixture Models: Theory, Geometry and Applications.
+\newblock 1995
+
+\bibitem{Hesterberg:1988}
+T.~C. Hesterberg.
+\newblock Advances in importance sampling.
+\newblock Stanford University, 1988
+
+\bibitem{Bengio:2008:TNN}
+Y.~Bengio, J.-S. Sen{\'e}cal.
+\newblock Adaptive importance sampling to accelerate training of a neural
+  probabilistic language model.
+\newblock IEEE Transactions on Neural Networks, 2008, 19(4):713--722
+
+\bibitem{casella2004generalized}
+G.~Casella, C.~P. Robert, M.~T. Wells.
+\newblock Generalized accept-reject sampling schemes.
+\newblock Lecture Notes-Monograph Series, 2004, : 342--347
+
+\bibitem{Koren:2009:Computer}
+Y.~Koren, R.~Bell, C.~Volinsky.
+\newblock Matrix factorization techniques for recommender systems.
+\newblock Computer, 2009, 42(8):30--37
+
+\bibitem{He:2016:CVPR}
+K.~He, X.~Zhang, S.~Ren, J.~Sun.
+\newblock Deep residual learning for image recognition.
+\newblock in: Proceedings of the IEEE/CVF conference on Computer Vision and
+  Pattern Recognition, 2016:770–778
+
+\bibitem{Adam:2015:ICLR}
+P.~Diederik, B.~Jimmy.
+\newblock Adam: A method for stochastic optimization.
+\newblock in: International Conference on Learning Representations, 2015
+
+\bibitem{Lajanugen:2018:ICLR}
+L.~Lajanugen, L.~Honglak.
+\newblock An efficient framework for learning sentence representations.
+\newblock in: International Conference on Learning Representations, 2018
+
+\bibitem{yuan2023go}
+Z.~Yuan, F.~Yuan, Y.~Song, Y.~Li, J.~Fu, F.~Yang, et~al.
+\newblock Where to Go Next for Recommender Systems? ID- vs. Modality-Based
+  Recommender Models Revisited.
+\newblock in: Proceedings of the 46th International ACM SIGIR Conference on
+  Research and Development in Information Retrieval, 2023:2639–2649
+
+\end{thebibliography}

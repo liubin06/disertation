@@ -1,0 +1,34 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces 数据集统计信息\relax }}{41}{table.caption.18}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces 隐变量的估计质量\relax }}{43}{table.caption.20}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces Top-k 推荐性能比较\relax }}{44}{table.caption.21}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces 数据集统计信息\relax }}{60}{table.caption.28}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces Top-k 推荐性能比较\relax }}{64}{table.caption.29}%
+\contentsline {table}{\numberline {4.3}{\ignorespaces BNS负采样算法的消融实验\relax }}{68}{table.caption.33}%
+\contentsline {table}{\numberline {4.4}{\ignorespaces 不同损失函数下BNS负采样算法的表现\relax }}{70}{table.caption.34}%
+\contentsline {table}{\numberline {4.5}{\ignorespaces 向最优采样器的渐进过程\relax }}{70}{table.caption.35}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces 数据集统计信息\relax }}{87}{table.caption.38}%
+\contentsline {table}{\numberline {5.2}{\ignorespaces Top-k推荐性能比较\relax }}{90}{table.caption.39}%
+\contentsline {table}{\numberline {5.3}{\ignorespaces 去偏成对学习算法与负采样算法的性能比较\relax }}{95}{table.caption.43}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {6.1}{\ignorespaces 概率密度一览表\relax }}{111}{table.caption.49}%
+\contentsline {table}{\numberline {6.2}{\ignorespaces 数据集统计信息\relax }}{128}{table.caption.56}%
+\contentsline {table}{\numberline {6.3}{\ignorespaces Top-k推荐性能比较\relax }}{131}{table.caption.57}%
+\contentsline {table}{\numberline {6.4}{\ignorespaces 图像多分类任务数据集统计信息\relax }}{133}{table.caption.59}%
+\contentsline {table}{\numberline {6.5}{\ignorespaces 图像二分类任务数据集统计信息\relax }}{133}{table.caption.60}%
+\contentsline {table}{\numberline {6.6}{\ignorespaces 图像多分类top-1精度比较\relax }}{135}{table.caption.61}%
+\contentsline {table}{\numberline {6.7}{\ignorespaces 图像二分类top-1精度比较\relax }}{135}{table.caption.62}%
+\contentsline {table}{\numberline {6.8}{\ignorespaces 负例个数的影响\relax }}{136}{table.caption.63}%
+\contentsline {table}{\numberline {6.9}{\ignorespaces 参数$\beta $的影响\relax }}{136}{table.caption.64}%
+\contentsline {table}{\numberline {6.10}{\ignorespaces 正例类先验概率$\tau ^+$的影响\relax }}{137}{table.caption.65}%
+\contentsline {table}{\numberline {6.11}{\ignorespaces 算法运行时间比较\relax }}{138}{table.caption.66}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsfinish 

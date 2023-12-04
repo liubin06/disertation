@@ -1,0 +1,3647 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.7.25)  1 DEC 2023 10:38
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (./HUSTthesis.cls
+Document Class: HUSTthesis 2022/03/26 3.2 Huazhong University of Science and Te
+chnology Thesis Template
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@chapter=\count176
+\c@section=\count177
+\c@subsection=\count178
+\c@subsubsection=\count179
+\c@paragraph=\count180
+\c@subparagraph=\count181
+\c@figure=\count182
+\c@table=\count183
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count184
+\calc@Bcount=\count185
+\calc@Adimen=\dimen139
+\calc@Bdimen=\dimen140
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count186
+\calc@Cskip=\skip51
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
+
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+(f:/Texlive/texlive/2021/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+))
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen141
+))
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen142
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count187
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count188
+\leftroot@=\count189
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count190
+\DOTSCASE@=\count191
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen143
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count192
+\c@MaxMatrixCols=\count193
+\dotsspace@=\muskip16
+\c@parentequation=\count194
+\dspbrk@lvl=\count195
+\tag@help=\toks17
+\row@=\count196
+\column@=\count197
+\maxfields@=\count198
+\andhelp@=\toks18
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
+\@envbody=\toks19
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen152
+\captionmargin@=\dimen153
+\captionwidth=\dimen154
+\caption@tempdima=\dimen155
+\caption@indent=\dimen156
+\caption@parindent=\dimen157
+\caption@hangindent=\dimen158
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count199
+\c@continuedfloat=\count266
+)
+\c@KVtest=\count267
+\sf@farskip=\skip55
+\sf@captopadj=\dimen159
+\sf@capskip=\skip56
+\sf@nearskip=\skip57
+
+
+Package subfig Warning: Configuration file subfig.cfg not found on input line 2
+97.
+
+\c@subfigure=\count268
+\c@subfigure@save=\count269
+\c@lofdepth=\count270
+\c@subtable=\count271
+\c@subtable@save=\count272
+\c@lotdepth=\count273
+\sf@top=\skip58
+\sf@bottom=\skip59
+) (f:/Texlive/texlive/2021/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2021-03-18 L3 backend support: XeTeX
+
+(|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count274
+\l__color_backend_stack_int=\count275
+\g__color_backend_stack_int=\count276
+\g__graphics_track_int=\count277
+\l__pdf_internal_box=\box49
+\g__pdf_backend_object_int=\count278
+\g__pdf_backend_annotation_int=\count279
+\g__pdf_backend_link_int=\count280
+))
+Package: xeCJK 2020/10/19 v3.8.6 Typesetting CJK scripts with XeLaTeX
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2021-03-12 LaTeX2e option processing using LaTeX3 keys
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.st
+y
+Package: xtemplate 2021-03-12 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen160
+\l__xtemplate_tmp_int=\count281
+\l__xtemplate_tmp_muskip=\muskip17
+\l__xtemplate_tmp_skip=\skip60
+) (f:/Texlive/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-
+01.sty
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.
+tex)))
+\l__xeCJK_tmp_int=\count282
+\l__xeCJK_tmp_box=\box50
+\l__xeCJK_tmp_dim=\dimen161
+\l__xeCJK_tmp_skip=\skip61
+ (f:/Texlive/texlive/2021/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2021/03/14 v2.5.6 Document and package hooks (CTEX)
+)
+\g__xeCJK_space_factor_int=\count283
+\l__xeCJK_begin_int=\count284
+\l__xeCJK_end_int=\count285
+\c__xeCJK_CJK_class_int=\XeTeXcharclass1
+\c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
+\c__xeCJK_FullRight_class_int=\XeTeXcharclass3
+\c__xeCJK_HalfLeft_class_int=\XeTeXcharclass4
+\c__xeCJK_HalfRight_class_int=\XeTeXcharclass5
+\c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
+\c__xeCJK_CM_class_int=\XeTeXcharclass7
+\c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
+\l__xeCJK_last_skip=\skip62
+\g__xeCJK_node_int=\count286
+\c__xeCJK_CJK_node_dim=\dimen162
+\c__xeCJK_CJK-space_node_dim=\dimen163
+\c__xeCJK_default_node_dim=\dimen164
+\c__xeCJK_default-space_node_dim=\dimen165
+\c__xeCJK_CJK-widow_node_dim=\dimen166
+\c__xeCJK_normalspace_node_dim=\dimen167
+\l__xeCJK_ccglue_skip=\skip63
+\l__xeCJK_ecglue_skip=\skip64
+\l__xeCJK_punct_kern_skip=\skip65
+\l__xeCJK_last_penalty_int=\count287
+\l__xeCJK_last_bound_dim=\dimen168
+\l__xeCJK_last_kern_dim=\dimen169
+\l__xeCJK_widow_penalty_int=\count288
+
+Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
+(xtemplate)             argument(s) on line 2341.
+
+\l__xeCJK_fixed_punct_width_dim=\dimen170
+\l__xeCJK_mixed_punct_width_dim=\dimen171
+\l__xeCJK_middle_punct_width_dim=\dimen172
+\l__xeCJK_fixed_margin_width_dim=\dimen173
+\l__xeCJK_mixed_margin_width_dim=\dimen174
+\l__xeCJK_middle_margin_width_dim=\dimen175
+\l__xeCJK_bound_punct_width_dim=\dimen176
+\l__xeCJK_bound_margin_width_dim=\dimen177
+\l__xeCJK_margin_minimum_dim=\dimen178
+\l__xeCJK_kerning_total_width_dim=\dimen179
+\l__xeCJK_same_align_margin_dim=\dimen180
+\l__xeCJK_different_align_margin_dim=\dimen181
+\l__xeCJK_kerning_margin_width_dim=\dimen182
+\l__xeCJK_kerning_margin_minimum_dim=\dimen183
+\l__xeCJK_bound_dim=\dimen184
+\l__xeCJK_reverse_bound_dim=\dimen185
+\l__xeCJK_margin_dim=\dimen186
+\l__xeCJK_minimum_bound_dim=\dimen187
+\l__xeCJK_kerning_margin_dim=\dimen188
+\g__xeCJK_family_int=\count289
+\l__xeCJK_fam_int=\count290
+\g__xeCJK_fam_allocation_int=\count291
+\l__xeCJK_verb_case_int=\count292
+\l__xeCJK_verb_exspace_skip=\skip66
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count293
+\l__fontspec_language_int=\count294
+\l__fontspec_strnum_int=\count295
+\l__fontspec_tmp_int=\count296
+\l__fontspec_tmpa_int=\count297
+\l__fontspec_tmpb_int=\count298
+\l__fontspec_tmpc_int=\count299
+\l__fontspec_em_int=\count300
+\l__fontspec_emdef_int=\count301
+\l__fontspec_strong_int=\count302
+\l__fontspec_strongdef_int=\count303
+\l__fontspec_tmpa_dim=\dimen189
+\l__fontspec_tmpb_dim=\dimen190
+\l__fontspec_tmpc_dim=\dimen191
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(f:/Texlive/texlive/2021/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+File: xeCJK.cfg 2020/10/19 v3.8.6 Configuration file for xeCJK package
+))
+
+Package fontspec Info: Font family 'SimSun.ttf(0)' created for font
+(fontspec)             'SimSun.ttf' with options
+(fontspec)             [Script={CJK},Path={font/},AutoFakeBold={2.25},ItalicFon
+t={simkai.ttf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[font/SimSun.ttf]/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[font/SimSun.ttf]/OT:script=hani;language=dflt;embol
+den=2.25;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[font/simkai.ttf]/OT:script=hani;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+
+
+
+Package xeCJK Warning: Redefining CJKfamily `\CJKttdefault' (simfang.ttf).
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/ntheorem/ntheorem.sty
+Style `ntheorem', Version 1.33 <2011/08/15>
+Package: ntheorem 2011/08/15 1.33
+\theorem@style=\toks21
+\theorem@@style=\toks22
+\theorembodyfont=\toks23
+\theoremnumbering=\toks24
+\theorempreskipamount=\skip67
+\theorempostskipamount=\skip68
+\theoremframepreskipamount=\skip69
+\theoremframepostskipamount=\skip70
+\theoreminframepreskipamount=\skip71
+\theoreminframepostskipamount=\skip72
+\theorem@preskip=\toks25
+\theorem@postskip=\toks26
+\theorem@framepreskip=\toks27
+\theorem@framepostskip=\toks28
+\theorem@inframepreskip=\toks29
+\theorem@inframepostskip=\toks30
+\theoremindent=\dimen192
+\theorem@indent=\dimen193
+\theoremrightindent=\dimen194
+\theorem@rightindent=\dimen195
+\theoremheaderfont=\toks31
+\theoremseparator=\toks32
+\theoremprework=\toks33
+\theorempostwork=\toks34
+\theoremsymbol=\toks35
+\qedsymbol=\toks36
+\theoremkeyword=\toks37
+\qedsymbol=\toks38
+\thm@topsep=\skip73
+\thm@topsepadd=\skip74
+Package ntheorem Info: Option `thmmarks' loaded on input line 1175.
+\c@endNonectr=\count304
+\c@currNonectr=\count305
+\mysavskip=\skip75
+Package ntheorem Info: option `amsmath' handling for `thmmarks' loaded on input
+ line 1175.
+\thm@amstmpdepth=\dimen196
+\tagwidth=\dimen197
+) (f:/Texlive/texlive/2021/texmf-dist/tex/latex/tools/array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen198
+\ar@mcellbox=\box51
+\extrarowheight=\dimen199
+\NC@list=\toks39
+\extratabsurround=\skip76
+\backup@length=\skip77
+\ar@cellbox=\box52
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen256
+\lightrulewidth=\dimen257
+\cmidrulewidth=\dimen258
+\belowrulesep=\dimen259
+\belowbottomsep=\dimen260
+\aboverulesep=\dimen261
+\abovetopsep=\dimen262
+\cmidrulesep=\dimen263
+\cmidrulekern=\dimen264
+\defaultaddspace=\dimen265
+\@cmidla=\count306
+\@cmidlb=\count307
+\@aboverulesep=\dimen266
+\@belowrulesep=\dimen267
+\@thisruleclass=\count308
+\@lastruleclass=\count309
+\@thisrulewidth=\dimen268
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/titlesec/titletoc.sty
+Package: titletoc 2019/10/16 v2.13 TOC entries
+\ttl@leftsep=\dimen269
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip78
+\bibsep=\skip79
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count310
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen270
+\Hy@linkcounter=\count311
+\Hy@pagecounter=\count312
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
+nguages
+) (f:/Texlive/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count313
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count314
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen271
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count315
+\Field@Width=\dimen272
+\Fld@charsize=\dimen273
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count316
+\c@Item=\count317
+\c@Hfootnote=\count318
+)
+Package hyperref Info: Driver: hxetex.
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2021-02-27 v7.00k Hyperref driver for XeTeX
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box53
+\c@Hy@AnnotLevel=\count319
+\HyField@AnnotCount=\count320
+\Fld@listcount=\count321
+\c@bookmark@seq@number=\count322
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip80
+)
+Package hyperref Info: Option `CJKbookmarks' set `true' on input line 247.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 247.
+
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 247.
+Package hyperref Info: Option `breaklinks' set `true' on input line 247.
+Package hyperref Info: Option `colorlinks' set `true' on input line 247.
+Package hyperref Info: Option `plainpages' set `false' on input line 247.
+ (f:/Texlive/texlive/2021/texmf-dist/tex/latex/hypernat/hypernat.sty
+Invalid UTF-8 byte or sequence at line 22 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
+Package: hypernat 2001/07/09 v1.0b hyperref and natbib compatibility (jb)
+)
+\HUSTtopsep=\skip81
+\HUSTnormlabelsep=\dimen274
+\labelindent=\dimen275
+\HUSTlabelindent=\dimen276
+\thu@linespace=\skip82
+\CJKtwospaces=\skip83
+\c@currdefinitionctr=\count323
+\c@enddefinitionctr=\count324
+\c@definition=\count325
+\c@currpropositionctr=\count326
+\c@endpropositionctr=\count327
+\c@proposition=\count328
+\c@currlemmactr=\count329
+\c@endlemmactr=\count330
+\c@lemma=\count331
+\c@currtheoremctr=\count332
+\c@endtheoremctr=\count333
+\c@theorem=\count334
+\c@curraxiomctr=\count335
+\c@endaxiomctr=\count336
+\c@axiom=\count337
+\c@currcorollaryctr=\count338
+\c@endcorollaryctr=\count339
+\c@corollary=\count340
+\c@currexercisectr=\count341
+\c@endexercisectr=\count342
+\c@exercise=\count343
+\c@currexamplectr=\count344
+\c@endexamplectr=\count345
+\c@example=\count346
+\c@currproofctr=\count347
+\c@endproofctr=\count348
+\c@proof=\count349
+)
+(./HUSTtils.sty
+Package: HUSTtils 2006/03/27 2.2 any packages you would like to use
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip84
+\multirow@cntb=\count350
+\multirow@dima=\skip85
+\bigstrutjot=\dimen277
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/generic/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks40
+\SOUL@lasttoken=\toks41
+\SOUL@cmds=\toks42
+\SOUL@buffer=\toks43
+\SOUL@token=\toks44
+\SOUL@spaceskip=\skip86
+\SOUL@ttwidth=\dimen278
+\SOUL@uldp=\dimen279
+\SOUL@ulht=\dimen280
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen281
+\c@nlinenum=\count351
+\TeXr@lab=\toks45
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: xetex.def on input line 147.
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/algorithms/algorithmic.sty
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count352
+\c@ALC@line=\count353
+\c@ALC@rem=\count354
+\c@ALC@depth=\count355
+\ALC@tlm=\skip87
+\algorithmicindent=\skip88
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/algorithms/algorithm.sty
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count356
+\float@exts=\toks46
+\float@box=\box54
+\@float@everytoks=\toks47
+\@floatcapt=\box55
+)
+\@float@every@algorithm=\toks48
+\c@algorithm=\count357
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+Invalid UTF-8 byte or sequence at line 284 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 299 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 550 replaced by U+FFFD.
+Package: algorithm2e 2017/07/18 v5.2 algorithms environments
+\c@AlgoLine=\count358
+\algocf@hangindent=\skip89
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count359
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\skiptotal=\skip90
+\skiplinenumber=\skip91
+\skiprule=\skip92
+\skiphlne=\skip93
+\skiptext=\skip94
+\skiplength=\skip95
+\algomargin=\skip96
+\skipalgocfslide=\skip97
+\algowidth=\dimen282
+\inoutsize=\dimen283
+\inoutindent=\dimen284
+\interspacetitleruled=\dimen285
+\interspacealgoruled=\dimen286
+\interspacetitleboxruled=\dimen287
+\algocf@ruledwidth=\skip98
+\algocf@inoutbox=\box56
+\algocf@inputbox=\box57
+\AlCapSkip=\skip99
+\AlCapHSkip=\skip100
+\algoskipindent=\skip101
+\algocf@nlbox=\box58
+\algocf@hangingbox=\box59
+\algocf@untilbox=\box60
+\algocf@skipuntil=\skip102
+\algocf@capbox=\box61
+\algocf@lcaptionbox=\skip103
+\algoheightruledefault=\skip104
+\algoheightrule=\skip105
+\algotitleheightruledefault=\skip106
+\algotitleheightrule=\skip107
+\c@algocfline=\count360
+\c@algocfproc=\count361
+\c@algocf=\count362
+\algocf@algoframe=\box62
+\algocf@algobox=\box63
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/subfloat/subfloat.sty
+Package: subfloat 2003/08/21 version 2.14
+
+Package `subfloat', Version 2.14 of 2003/08/21.
+
+Package subfloat Warning: Numbers of floats not counted:
+(subfloat)                If you use one of the counters subfloatfiguremax or
+(subfloat)                subfloattablemax you will get strange error messages
+(subfloat)                containing \c@subfloatfiguremax or
+(subfloat)                \c@subfloattablemax:
+(subfloat)                Please switch on countmax or remove the code using
+(subfloat)                the counter then..
+
+) (f:/Texlive/texlive/2021/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip108
+\LTright=\skip109
+\LTpre=\skip110
+\LTpost=\skip111
+\LTchunksize=\count363
+\LTcapwidth=\dimen288
+\LT@head=\box64
+\LT@firsthead=\box65
+\LT@foot=\box66
+\LT@lastfoot=\box67
+\LT@cols=\count364
+\LT@rows=\count365
+\c@LT@tables=\count366
+\c@LT@chunks=\count367
+\LT@p@ftn=\toks49
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/overpic/overpic.sty
+Package: overpic 2020/02/22 1.3 picture overlays (RN)
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/eepic/epic.sty
+Enhancements to Picture Environment. Version 1.2 - Released June 1, 1986
+\@@multicnt=\count368
+\d@lta=\count369
+\@delta=\dimen289
+\@@delta=\dimen290
+\@gridcnt=\count370
+\@joinkind=\count371
+\@dotgap=\dimen291
+\@ddotgap=\dimen292
+\@x@diff=\count372
+\@y@diff=\count373
+\x@diff=\dimen293
+\y@diff=\dimen294
+\@dotbox=\box68
+\num@segments=\count374
+\num@segmentsi=\count375
+\@datafile=\read2
+)
+\OVP@box=\box69
+))
+
+Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
+(fontspec)             New Roman' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;+smcp;mapping=tex-tex
+t;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Times
+(fontspec)             New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-
+text;"
+
+ (./main.aux (./body/chap01.aux) (./body/chap015.aux) (./body/chap02.aux
+
+LaTeX Warning: Label `eq28' multiply defined.
+
+) (./body/chap03.aux) (./body/chap04.aux) (./body/chap05.aux)
+(./body/conclusion.aux
+
+LaTeX Warning: Label `sec:conclusion' multiply defined.
+
+) (./body/ack.aux) (./body/appendix03.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
+8.
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 18.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 18.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 18.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 18.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 18.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 18.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 18.
+LaTeX Font Info:    Redeclaring math accent \check on input line 18.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 18.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 18.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 18.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 18.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 18.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 1
+8.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 18.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 
+18.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on 
+input line 18.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line
+ 18.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 
+18.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 18.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 18.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on 
+input line 18.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input lin
+e 18.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 18.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 18.
+Package hyperref Info: Link coloring ON on input line 18.
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(f:/Texlive/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count376
+)
+LaTeX Info: Redefining \ref on input line 18.
+LaTeX Info: Redefining \pageref on input line 18.
+LaTeX Info: Redefining \nameref on input line 18.
+ (./main.out) (./main.out)
+\@outlinefile=\write3
+\openout3 = `main.out'.
+
+ (./body/cover.tex)
+
+Package fontspec Info: Font family 'SimSun.ttf(1)' created for font
+(fontspec)             'SimSun.ttf' with options
+(fontspec)             [Script={CJK},Path={font/},AutoFakeBold={2.25},AutoFakeS
+lant={0.167}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[font/SimSun.ttf]/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[font/SimSun.ttf]/OT:script=hani;language=dflt;embol
+den=2.25;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[font/SimSun.ttf]/OT:script=hani;language=dflt;slant
+=0.167;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[font/SimSun.ttf]/OT:script=hani;language=dflt;embol
+den=2.25;slant=0.167;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 25.
+
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 25.
+
+
+(f:/Texlive/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (60.0pt too wide) in paragraph at lines 25--25
+ [] 
+ []
+
+File: figures/hust-flash-eps-crop.png Graphic file (type bmp)
+<figures/hust-flash-eps-crop.png>
+
+Package fontspec Info: Font family 'STZhongsong.ttf(0)' created for font
+(fontspec)             'STZhongsong.ttf' with options
+(fontspec)             [Script={CJK},Path={font/},AutoFakeBold={2.25},AutoFakeS
+lant={0.167}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[font/STZhongsong.ttf]/OT:script=hani;language=dflt;
+"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[font/STZhongsong.ttf]/OT:script=hani;language=dflt;
+embolden=2.25;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[font/STZhongsong.ttf]/OT:script=hani;language=dflt;
+slant=0.167;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[font/STZhongsong.ttf]/OT:script=hani;language=dflt;
+embolden=2.25;slant=0.167;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+LaTeX Font Info:    Calculating math sizes for size <15> on input line 25.
+[1
+
+
+
+]
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 25.
+ [2
+
+]
+Overfull \hbox (122.90099pt too wide) in paragraph at lines 25--25
+ [][] 
+ []
+
+[3
+
+]
+
+Package fontspec Info: Font family 'SimHei.ttf(0)' created for font
+(fontspec)             'SimHei.ttf' with options
+(fontspec)             [Script={CJK},Path={font/},AutoFakeBold={2.25},AutoFakeS
+lant={0.167}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[font/SimHei.ttf]/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[font/SimHei.ttf]/OT:script=hani;language=dflt;embol
+den=2.25;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[font/SimHei.ttf]/OT:script=hani;language=dflt;slant
+=0.167;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[font/SimHei.ttf]/OT:script=hani;language=dflt;embol
+den=2.25;slant=0.167;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+Overfull \hbox (24.0pt too wide) in paragraph at lines 25--25
+ []| [] 
+ []
+
+
+Overfull \hbox (24.0pt too wide) in paragraph at lines 25--25
+ []| [] 
+ []
+
+[4
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\sihao' on input line 25.
+
+
+Package fontspec Info: Font family 'simkai.ttf(0)' created for font
+(fontspec)             'simkai.ttf' with options
+(fontspec)             [Script={CJK},Path={font/},AutoFakeBold={2.25},AutoFakeS
+lant={0.167}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[font/simkai.ttf]/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[font/simkai.ttf]/OT:script=hani;language=dflt;embol
+den=2.25;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[font/simkai.ttf]/OT:script=hani;language=dflt;slant
+=0.167;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[font/simkai.ttf]/OT:script=hani;language=dflt;embol
+den=2.25;slant=0.167;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[1
+
+
+]
+Overfull \hbox (6.0pt too wide) in paragraph at lines 25--25
+[] 
+ []
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[2]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\sihao' on input line 25.
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[3
+
+
+]
+Underfull \hbox (badness 1975) in paragraph at lines 25--25
+[]|  \TU/TimesNewRoman(0)/m/n/12 Recommender System, Contrastive Learning, Pair
+wise Learning, Self-
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 25--27
+[]
+ []
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[4]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[5] (./main.toc
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[6
+
+]
+Overfull \hbox (2.32422pt too wide) detected at line 109
+ \TU/TimesNewRoman(0)/m/n/14 (100)
+ []
+
+
+Overfull \hbox (2.32422pt too wide) detected at line 110
+ \TU/TimesNewRoman(0)/m/n/14 (102)
+ []
+
+
+Overfull \hbox (1.80469pt too wide) detected at line 117
+ \TU/TimesNewRoman(0)/m/n/14 (113)
+ []
+
+
+Overfull \hbox (1.80469pt too wide) detected at line 120
+ \TU/TimesNewRoman(0)/m/n/14 (115)
+ []
+
+
+Overfull \hbox (2.32422pt too wide) detected at line 123
+ \TU/TimesNewRoman(0)/m/n/14 (120)
+ []
+
+
+Overfull \hbox (2.32422pt too wide) detected at line 141
+ \TU/TimesNewRoman(0)/m/n/14 (138)
+ []
+
+
+Overfull \hbox (2.32422pt too wide) detected at line 143
+ \TU/TimesNewRoman(0)/m/n/14 (140)
+ []
+
+
+Overfull \hbox (2.32422pt too wide) detected at line 144
+ \TU/TimesNewRoman(0)/m/n/14 (141)
+ []
+
+
+Overfull \hbox (2.32422pt too wide) detected at line 147
+ \TU/TimesNewRoman(0)/m/n/14 (143)
+ []
+
+
+Overfull \hbox (2.32422pt too wide) detected at line 150
+ \TU/TimesNewRoman(0)/m/n/14 (145)
+ []
+
+
+Overfull \hbox (2.32422pt too wide) detected at line 153
+ \TU/TimesNewRoman(0)/m/n/14 (160)
+ []
+
+
+Overfull \hbox (2.32422pt too wide) detected at line 154
+ \TU/TimesNewRoman(0)/m/n/14 (161)
+ []
+
+
+Overfull \hbox (2.32422pt too wide) detected at line 155
+ \TU/TimesNewRoman(0)/m/n/14 (162)
+ []
+
+
+Overfull \hbox (2.32422pt too wide) detected at line 156
+ \TU/TimesNewRoman(0)/m/n/14 (163)
+ []
+
+)
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[7] (./main.lof
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[8
+
+])
+\tf@lof=\write5
+\openout5 = `main.lof'.
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[9] (./main.lot)
+\tf@lot=\write6
+\openout6 = `main.lot'.
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[10
+
+]
+\openout2 = `body/chap01.aux'.
+
+ (./body/chap01.tex
+Chapter 1.
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[1
+
+
+
+]
+Underfull \vbox (badness 3138) has occurred while \output is active []
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[2]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[3]
+Underfull \vbox (badness 3029) has occurred while \output is active []
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[4]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!tbp') on input line 69.
+
+File: figures//content.pdf Graphic file (type pdf)
+<use figures//content.pdf>
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[5]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[6])
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[7]
+\openout2 = `body/chap015.aux'.
+
+ (./body/chap015.tex
+Chapter 2.
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[8
+
+
+
+
+]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!tbp') on input line 31.
+
+File: figures//self1.png Graphic file (type bmp)
+<figures//self1.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[9]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[10]
+File: figures//self2.png Graphic file (type bmp)
+<figures//self2.png>
+
+Underfull \vbox (badness 1558) has occurred while \output is active []
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[11]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[12]
+File: figures//self3.png Graphic file (type bmp)
+<figures//self3.png>
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[13]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[14]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[15]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!tbp') on input line 157.
+
+File: figures//fhn.pdf Graphic file (type pdf)
+<use figures//fhn.pdf>
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[16]
+Underfull \vbox (badness 1127) has occurred while \output is active []
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[17]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[18]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[19]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[20]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[21]
+Underfull \vbox (badness 3291) has occurred while \output is active []
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[22]
+Underfull \vbox (badness 4441) has occurred while \output is active []
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[23]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[24]
+File: figures//2-order.png Graphic file (type bmp)
+<figures//2-order.png>
+File: figures//order2.png Graphic file (type bmp)
+<figures//order2.png>
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[25]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[26])
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[27]
+\openout2 = `body/chap02.aux'.
+
+ (./body/chap02.tex
+Chapter 3.
+File: figures//2-IllustrativeExample.png Graphic file (type bmp)
+<figures//2-IllustrativeExample.png>
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[28
+
+
+
+
+]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[29]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[30]
+Package hyperref Info: bookmark level for unknown lemma defaults to 0 on input 
+line 60.
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[31]
+Package hyperref Info: bookmark level for unknown proof defaults to 0 on input 
+line 68.
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[32]
+File: figures//2-PriorPDF.png Graphic file (type bmp)
+<figures//2-PriorPDF.png>
+File: figures//2-PriorCDF.png Graphic file (type bmp)
+<figures//2-PriorCDF.png>
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[33]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[34]
+File: figures//2-PosteriorPDF.png Graphic file (type bmp)
+<figures//2-PosteriorPDF.png>
+File: figures//2-PosteriorCDF.png Graphic file (type bmp)
+<figures//2-PosteriorCDF.png>
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[35]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[36]
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
+put line 237.
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[37]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[38]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[39]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[40]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[41]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[42]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!tbp') on input line 405.
+
+File: figures//2-roc.png Graphic file (type bmp)
+<figures//2-roc.png>
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!tbp') on input line 411.
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[43]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!tbp') on input line 429.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!tbp') on input line 463.
+
+File: figures//2-noisyratio.png Graphic file (type bmp)
+<figures//2-noisyratio.png>
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[44]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!tbp') on input line 472.
+
+File: figures//2-c100k.png Graphic file (type bmp)
+<figures//2-c100k.png>
+File: figures//2-c1m.png Graphic file (type bmp)
+<figures//2-c1m.png>
+File: figures//2-cyahoo.png Graphic file (type bmp)
+<figures//2-cyahoo.png>
+
+LaTeX Warning: Float too large for page by 0.61722pt on input line 479.
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[45])
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[46]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[47]
+\openout2 = `body/chap03.aux'.
+
+ (./body/chap03.tex
+Chapter 4.
+File: figures//3-PU.pdf Graphic file (type pdf)
+<use figures//3-PU.pdf>
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[48
+
+
+
+
+]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[49]
+
+Package fontspec Info: Font family 'SimHei.ttf(1)' created for font
+(fontspec)             'SimHei.ttf' with options
+(fontspec)             [Script={CJK},Path={font/},AutoFakeBold={2.25},ItalicFon
+t={simkai.ttf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[font/SimHei.ttf]/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[font/SimHei.ttf]/OT:script=hani;language=dflt;embol
+den=2.25;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[font/simkai.ttf]/OT:script=hani;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[50]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[51]
+File: figures//3-DistributionStatistics1.png Graphic file (type bmp)
+<figures//3-DistributionStatistics1.png>
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[52]
+File: figures//3-theorydist.png Graphic file (type bmp)
+<figures//3-theorydist.png>
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[53]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[54]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!tbp') on input line 187.
+
+File: figures//3-unbias.png Graphic file (type bmp)
+<figures//3-unbias.png>
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[55]
+Package hyperref Info: bookmark level for unknown definition defaults to 0 on i
+nput line 202.
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[56]
+Package hyperref Info: bookmark level for unknown theorem defaults to 0 on inpu
+t line 221.
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[57]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[58]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!htbp') on input line 291.
+
+
+Underfull \vbox (badness 1412) has occurred while \output is active []
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[59]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[60]
+Underfull \vbox (badness 4205) has occurred while \output is active []
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[61]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[62]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!tbp') on input line 457.
+
+File: figures//3-tnr.png Graphic file (type bmp)
+<figures//3-tnr.png>
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[63]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[64]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[65]
+File: figures//3-highperparameter1.png Graphic file (type bmp)
+<figures//3-highperparameter1.png>
+File: figures//3-highperparameter2.png Graphic file (type bmp)
+<figures//3-highperparameter2.png>
+
+Underfull \vbox (badness 1454) has occurred while \output is active []
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[66]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[67]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[68]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[69]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[70])
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[71]
+\openout2 = `body/chap04.aux'.
+
+ (./body/chap04.tex
+Chapter 5.
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[72
+
+
+
+
+]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[73]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[74]
+File: figures//4-event.png Graphic file (type bmp)
+<figures//4-event.png>
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[75]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[76]
+File: figures//4-unbiasedAUC.pdf Graphic file (type pdf)
+<use figures//4-unbiasedAUC.pdf>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[77]
+
+Package fontspec Info: Font family 'STZhongsong.ttf(1)' created for font
+(fontspec)             'STZhongsong.ttf' with options
+(fontspec)             [Script={CJK},Path={font/},AutoFakeBold={2.25},ItalicFon
+t={simkai.ttf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[font/STZhongsong.ttf]/OT:script=hani;language=dflt;
+"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[font/STZhongsong.ttf]/OT:script=hani;language=dflt;
+embolden=2.25;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[font/simkai.ttf]/OT:script=hani;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!htbp') on input line 132.
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[78]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[79]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[80]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[81]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[82]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[83]
+Overfull \hbox (38.45146pt too wide) in alignment at lines 303--307
+ [][][] []
+ []
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[84]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[85]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[86]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[87]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[88]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[89]
+
+LaTeX Warning: Text page 90 contains only floats.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[90]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[91]
+File: figures//4-parameter1.png Graphic file (type bmp)
+<figures//4-parameter1.png>
+File: figures//4-parameter2.png Graphic file (type bmp)
+<figures//4-parameter2.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[92]
+File: figures//4-parameter3.png Graphic file (type bmp)
+<figures//4-parameter3.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[93]
+File: figures//4-runtime.png Graphic file (type bmp)
+<figures//4-runtime.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 1472) has occurred while \output is active []
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[94]
+Underfull \vbox (badness 5533) has occurred while \output is active []
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[95]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[96])
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[97]
+\openout2 = `body/chap05.aux'.
+
+ (./body/chap05.tex
+Chapter 6.
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[98
+
+
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[99]
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 24.
+
+LaTeX Font Info:    Calculating math sizes for size <> on input line 27.
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <> not available
+(Font)              size <5> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.7> not available
+(Font)              size <5> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.5> not available
+(Font)              size <5> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <> not available
+(Font)              size <5> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.7> not available
+(Font)              size <5> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.5> not available
+(Font)              size <5> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <> not available
+(Font)              size <5> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.7> not available
+(Font)              size <5> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.5> not available
+(Font)              size <5> substituted on input line 27.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 32.
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[100]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!tbp') on input line 64.
+
+File: figures//gap.jpeg Graphic file (type bmp)
+<figures//gap.jpeg>
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[101]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!tbp') on input line 81.
+
+File: figures//pucon.pdf Graphic file (type pdf)
+<use figures//pucon.pdf>
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[102]
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 100.
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[103]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[104]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[105]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!tbp') on input line 147.
+
+File: figures//openball.jpeg Graphic file (type bmp)
+<figures//openball.jpeg>
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[106]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[107]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!tbp') on input line 210.
+
+File: figures//theorydist.png Graphic file (type bmp)
+<figures//theorydist.png>
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 218.
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[108]
+Underfull \vbox (badness 1077) has occurred while \output is active []
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[109]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[110]
+Overfull \hbox (5.76872pt too wide) in alignment at lines 293--299
+ [][][] []
+ []
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[111]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[112]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!htbp') on input line 342.
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[113]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!tbp') on input line 374.
+
+File: figures//PCU.pdf Graphic file (type pdf)
+<use figures//PCU.pdf>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[114]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[115]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[116]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[117]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[118]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!tbp') on input line 479.
+
+File: figures//suploss.pdf Graphic file (type pdf)
+<use figures//suploss.pdf>
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[119]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[120]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!tbp') on input line 527.
+
+File: figures//numerical.pdf Graphic file (type pdf)
+<use figures//numerical.pdf>
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!htbp') on input line 534.
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[121]
+Underfull \vbox (badness 1259) has occurred while \output is active []
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[122]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!htbp') on input line 600.
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[123]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!htbp') on input line 626.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!tbp') on input line 649.
+
+File: figures//empiricaldist.png Graphic file (type bmp)
+<figures//empiricaldist.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[124]
+File: figures//numer_alpha.png Graphic file (type bmp)
+<figures//numer_alpha.png>
+File: figures//numer_N.png Graphic file (type bmp)
+<figures//numer_N.png>
+File: figures//numer_tau.png Graphic file (type bmp)
+<figures//numer_tau.png>
+File: figures//numer_gamma.png Graphic file (type bmp)
+<figures//numer_gamma.png>
+File: figures//numer_t.png Graphic file (type bmp)
+<figures//numer_t.png>
+File: figures//numer_M.png Graphic file (type bmp)
+<figures//numer_M.png>
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[125]
+File: figures//numer_bargamma.png Graphic file (type bmp)
+<figures//numer_bargamma.png>
+File: figures//numer_bar.png Graphic file (type bmp)
+<figures//numer_bar.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[126]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[127]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[128]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[129]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[130]
+
+LaTeX Warning: Text page 131 contains only floats.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[131]
+File: figures//cifar.png Graphic file (type bmp)
+<figures//cifar.png>
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[132]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[133]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[134]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[135]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[136]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[137])
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[138]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[139]
+\openout2 = `body/conclusion.aux'.
+
+ (./body/conclusion.tex
+Chapter 7.
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[140
+
+
+
+
+]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[141])
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[142]
+\openout2 = `body/ack.aux'.
+
+ (./body/ack.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\sihao' on input line 7.
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[143
+
+
+
+
+
+])
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[144] (./main.bbl
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\sihao' on input line 1.
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[145
+
+
+
+
+]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[146]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[147]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[148]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[149]
+Underfull \hbox (badness 3503) in paragraph at lines 382--387
+[]\TU/TimesNewRoman(0)/m/n/12 R. D. Hjelm, A. Fedorov, S. Lavoie-Marchildon, K.
+ Grewal, P. Bachman,
+ []
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[150]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[151]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[152]
+Underfull \hbox (badness 1789) in paragraph at lines 636--640
+[]\TU/TimesNewRoman(0)/m/n/12 J. Jiang, Y. Luo, J. B. Kim, K. Zhang, S. Kim.  S
+equential recommenda-
+ []
+
+
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[153]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[154]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[155]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[156]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[157]
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[158]) (./body/patent.tex
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[159]
+附录 1.
+) (./body/publications.tex
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[160
+
+]
+附录 2.
+
+Overfull \hbox (5.0145pt too wide) in paragraph at lines 16--17
+[]\TU/TimesNewRoman(0)/b/n/12 Bin Liu\TU/TimesNewRoman(0)/m/n/12 , Bang Wang*. 
+Bayesian self-supervised Contrastive Learning. \TU/TimesNewRoman(0)/m/it/12 arX
+iv preprint
+ []
+
+
+Overfull \hbox (6.65526pt too wide) in paragraph at lines 17--18
+[]\TU/TimesNewRoman(0)/b/n/12 Bin Liu\TU/TimesNewRoman(0)/m/n/12 , Qin Luo, Ban
+g Wang*. Debiased Pairwise Learning from Positive-Unlabeled
+ []
+
+) (./body/appendix02.tex
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[161
+
+
+]
+附录 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+[]|\TU/TimesNewRoman(0)/m/n/11 Pairwise Learning for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+\TU/TimesNewRoman(0)/m/n/11 Personalized Ranking
+ []
+
+
+Underfull \hbox (badness 4193) in paragraph at lines 46--46
+[]|\TU/TimesNewRoman(0)/m/n/11 Effective public service
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\TU/TimesNewRoman(0)/m/n/11 delivery supported by
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\TU/TimesNewRoman(0)/m/n/11 time-decayed Bayesian
+ []
+
+
+Underfull \hbox (badness 3189) in paragraph at lines 47--47
+\TU/TimesNewRoman(0)/m/n/11 pling for Recommenda-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+\TU/TimesNewRoman(0)/m/n/11 through AUC-Optimal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+[]|\TU/TimesNewRoman(0)/m/n/11 Debiased Pairwise
+ []
+
+
+Underfull \hbox (badness 2564) in paragraph at lines 49--49
+\TU/TimesNewRoman(0)/m/n/11 Learning from Positive-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\TU/TimesNewRoman(0)/m/n/11 Unlabeled Implicit
+ []
+
+
+Underfull \hbox (badness 2744) in paragraph at lines 50--50
+[]|\TU/TimesNewRoman(0)/m/n/11 Bayesian self-supervised
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 51
+ []
+
+)
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[162
+
+]
+\openout2 = `body/appendix03.aux'.
+
+ (./body/appendix03.tex
+附录 4.
+)
+Overfull \hbox (8.14285pt too wide) has occurred while \output is active
+[]  [][] 
+ []
+
+
+Overfull \hbox (6.14285pt too wide) has occurred while \output is active
+ []
+ []
+
+[163
+
+
+]
+\tf@thm=\write7
+\openout7 = `main.thm'.
+
+ (./main.aux (./body/chap01.aux) (./body/chap015.aux) (./body/chap02.aux)
+(./body/chap03.aux) (./body/chap04.aux) (./body/chap05.aux)
+(./body/conclusion.aux) (./body/ack.aux) (./body/appendix03.aux))
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 4.5pt have occurred.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: C7CFF51908A2D57E5498E271D59801D1;6708.
+ ) 
+Here is how much of TeX's memory you used:
+ 19626 strings out of 476919
+ 405625 string characters out of 5821840
+ 832325 words of memory out of 5000000
+ 39052 multiletter control sequences out of 15000+600000
+ 423633 words of font info for 246 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 97i,19n,102p,1053b,1377s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on main.pdf (177 pages).

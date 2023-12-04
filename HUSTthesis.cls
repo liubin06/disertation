@@ -757,9 +757,9 @@
     \def\@oddhead{%
       \vbox{%
         \parbox[b]{\textwidth}{\centering\sihao%
-          \ziju{0.8em} \kai \sanhao[1] \HUST@schoolename\HUST@apply}
+          \ziju{0.8em} \kai \sanhao[1]\color{red} \HUST@schoolename\HUST@apply}
         \vskip8pt
-        \hspace{-4mm} \vbox{\hspace{-3mm} \hrule width 1.04\textwidth height\headrulewidth depth0pt\vskip1.0pt\hrule width 1.04\textwidth}}}\fi%
+        \hspace{-4mm} \color{red}\vbox{\hspace{-3mm}  \hrule width 1.04\textwidth height\headrulewidth depth0pt\vskip1.0pt\hrule width 1.04\textwidth}}}\fi%
     \let\@evenhead=\@oddhead
   \ifHUST@finalformat
    \def\@oddfoot{%
@@ -768,7 +768,7 @@
       \hfill \parbox[t]{\textwidth}{\centering\wuhao\thepage\strut}\hfill
       }}}
    \else
-   \def\footrule{{\vskip-0.3\normalbaselineskip\vskip-\footrulewidth
+   \def\footrule{{\color{red}\vskip-0.3\normalbaselineskip\vskip-\footrulewidth
    \hrule\@width 1.04\textwidth\@height\footrulewidth\vskip0.3\normalbaselineskip}}
    \def\@oddfoot{%
      \hbox to \textwidth{%
@@ -913,19 +913,19 @@
     \hline
     &\makecell{\textbf{姓名}}&\makecell[c]{\textbf{职称}}&\makecell[c]{\textbf{单位}}\\
     \hline
-    主席&&&\\
+    主席&{\makecell[c]{刘文予}}&\makecell[c]{教~~~~授}&\makecell[c]{华中科技大学}\\
     \hline
-    \multirow{6}{*}{委员}&&&\\
+    \multirow{4}{*}{委员}&\makecell[c]{吴~~~~谨}&\makecell[c]{教~~~~授}&\makecell[c]{武汉科技大学}\\
     \cline{2-4}
-    &&&\\
+    &\makecell[c]{陈震中}&\makecell[c]{教~~~~授}&\makecell[c]{武~~~汉~~~大~~学}\\
     \cline{2-4}
-    &&&\\
+    &\makecell[c]{刘应状}&\makecell[c]{教~~~~授}&\makecell[c]{华中科技大学}\\
     \cline{2-4}
-    &&&\\
-    \cline{2-4}
-    &&&\\
-    \cline{2-4}
-    &&&\\
+    &\makecell[c]{邓贤君}&\makecell[c]{教~~~~授}&\makecell[c]{华中科技大学}\\
+    \hline
+    督导&\makecell[c]{曹汉强}&\makecell[c]{教~~~~授}&\makecell[c]{华中科技大学}\\
+    \hline
+    秘书&\makecell[c]{冯~~~~镔}&\makecell[c]{副教授}&\makecell[c]{华中科技大学}\\
     \hline
 \end{tabular}
 \end{center}

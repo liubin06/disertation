@@ -1,0 +1,57 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces 关键问题与研究内容的关系\relax }}{6}{figure.caption.8}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces 典型的对比型推荐算法示意图\relax }}{10}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces 典型的生成型推荐算法示意图\relax }}{12}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces 典型的预测型推荐算法示意图\relax }}{13}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces 困难负例和伪负例示意图\relax }}{17}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces 次序统计量的概率微元\relax }}{25}{figure.caption.13}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces 随机变量及其次序统计量分布示意图\relax }}{26}{figure.caption.14}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces 含噪成对比较示意图\relax }}{28}{figure.caption.15}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces 不同参数下先验分布的概率密度及累积分布函数示意图\relax }}{34}{figure.caption.16}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces 不同参数下后验分布的概率密度及累积分布函数示意图\relax }}{35}{figure.caption.17}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces 隐变量估计的ROC曲线\relax }}{43}{figure.caption.19}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces 不同噪声率对学习算法性能的影响\relax }}{45}{figure.caption.22}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces 不同学习算法的收敛速度比较\relax }}{47}{figure.caption.23}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Positive-Unlabeled(PU)问题示意图\relax }}{48}{figure.caption.24}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces 不同训练时点的相似度分数的经验分布\relax }}{52}{figure.caption.25}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces 相似度分数的理论分布\relax }}{53}{figure.caption.26}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces 后验概率函数图\relax }}{56}{figure.caption.27}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces 不同方法的采样质量比较\relax }}{65}{figure.caption.30}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces 参数$\lambda $的影响\relax }}{66}{figure.caption.31}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces 候选集大小的影响\relax }}{67}{figure.caption.32}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces 成对损失优化目标偏差示意图\relax }}{75}{figure.caption.36}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces 去偏成对损失的示意图\relax }}{78}{figure.caption.37}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces 超参数M的影响\relax }}{92}{figure.caption.40}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces 超参数N的影响\relax }}{93}{figure.caption.41}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces 超参数$\tau ^+$的影响\relax }}{94}{figure.caption.42}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces 去偏成对学习算法和负采样算法的运行时间比较\relax }}{95}{figure.caption.44}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces 有偏对比损失与互信息优化示意图\relax }}{102}{figure.caption.45}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces 自监督对比学习的伪负例去偏和硬负例挖掘示意图\relax }}{103}{figure.caption.46}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces 正负样本对相对位置示意图\relax }}{106}{figure.caption.47}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces 不同$\alpha $设定下类条件概率密度示意图\relax }}{109}{figure.caption.48}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces 抽象数学模型示意图\relax }}{115}{figure.caption.50}%
+\contentsline {figure}{\numberline {6.6}{\ignorespaces 估计校正的的直观阐释示意图\relax }}{120}{figure.caption.51}%
+\contentsline {figure}{\numberline {6.7}{\ignorespaces 未标注样本相似度分数生成过程示意图\relax }}{122}{figure.caption.52}%
+\contentsline {figure}{\numberline {6.8}{\ignorespaces 不同$\alpha $设置下相似度分数的经验分布\relax }}{125}{figure.caption.53}%
+\contentsline {figure}{\numberline {6.9}{\ignorespaces 不同参数设置下估计量的均方误差比较\relax }}{126}{figure.caption.54}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$\alpha $(即编码器$f$性能)的影响}}}{126}{subfigure.9.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {负例个数N的影响}}}{126}{subfigure.9.2}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {类先验概率的影响}}}{126}{subfigure.9.3}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {不同锚点的$\phi $变异程度的影响}}}{126}{subfigure.9.4}%
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {温度放缩系数$t$的影响}}}{126}{subfigure.9.5}%
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {锚点数量M的影响}}}{126}{subfigure.9.6}%
+\contentsline {figure}{\numberline {6.10}{\ignorespaces 不同参数设置下估计量的均值比较\relax }}{127}{figure.caption.55}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{127}{subfigure.10.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{127}{subfigure.10.2}%
+\contentsline {figure}{\numberline {6.11}{\ignorespaces CIFAR10数据集的十个类别及相应的随机样本概览\relax }}{132}{figure.caption.58}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsfinish 

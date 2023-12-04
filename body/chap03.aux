@@ -1,8 +1,5 @@
 \relax 
 \providecommand\hyper@newdestlabel[2]{}
-\citation{Jessa:2020:ML,Su:2021:IJCAI}
-\citation{Jessa:2020:ML}
-\citation{Su:2021:IJCAI}
 \citation{Mikolov:2013:NIPS,Tang:2015:WWW}
 \citation{Mikolov:2013:NIPS}
 \citation{Tang:2015:WWW}
@@ -17,18 +14,18 @@
 \citation{Ding:2020:NIPS}
 \citation{Steffen:2014:WSDM}
 \citation{Zhang:2013:SIGIR}
+\citation{Yang:2020:KDD}
 \citation{Park:2019:WWW}
 \citation{Huang:2021:KDD}
 \citation{Ding:2019:IJCAI}
-\citation{Yang:2020:KDD}
-\@writefile{toc}{\contentsline {chapter}{\numberline {4}负例采样算法研究}{41}{chapter.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\numberline {4}基于最优负采样准则的推荐算法研究}{48}{chapter.4}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{loa}{\addvspace {10\p@ }}
-\newlabel{cha:thirdsection}{{4}{41}{负例采样算法研究}{chapter.4}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces Positive-Unlabeled(PU)问题示意图\relax }}{41}{figure.caption.22}\protected@file@percent }
-\newlabel{Fig:falsen}{{4.1}{41}{Positive-Unlabeled(PU)问题示意图\relax }{figure.caption.22}{}}
-\@writefile{toc}{\contentsline {section}{\numberline {4.1}引言}{41}{section.4.1}\protected@file@percent }
+\newlabel{cha:thirdsection}{{4}{48}{基于最优负采样准则的推荐算法研究}{chapter.4}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces Positive-Unlabeled(PU)问题示意图\relax }}{48}{figure.caption.24}\protected@file@percent }
+\newlabel{Fig:falsen}{{4.1}{48}{Positive-Unlabeled(PU)问题示意图\relax }{figure.caption.24}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.1}引言}{48}{section.4.1}\protected@file@percent }
 \citation{Steffen:2009:UAI,Chen:2017:KDD,Mikolov:2013:NIPS,Xiangnan:2020:SIGIR,Weike:2013:IJCAI,Yu:2018:CIKM,Wang:2019:SIGIR}
 \citation{Steffen:2009:UAI}
 \citation{Xiangnan:2020:SIGIR}
@@ -50,47 +47,45 @@
 \citation{Ding:2020:NIPS}
 \citation{Qin:2021:AAAI}
 \citation{Zhao:2021:IJCAI}
-\@writefile{toc}{\contentsline {section}{\numberline {4.2}负采样分析}{42}{section.4.2}\protected@file@percent }
-\newlabel{Eq:PairewiseLossFunction}{{4.1}{42}{负采样分析}{equation.4.2.1}{}}
-\newlabel{Eq:GradientOriginal}{{4.2}{43}{负采样分析}{equation.4.2.2}{}}
-\newlabel{Eq:Gradient}{{4.3}{43}{负采样分析}{equation.4.2.3}{}}
-\newlabel{Eq:Informativeness}{{4.4}{43}{负采样分析}{equation.4.2.4}{}}
-\newlabel{Eq:Unbiasedness}{{4.5}{43}{负采样分析}{equation.4.2.5}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.2}负例采样分析}{49}{section.4.2}\protected@file@percent }
+\newlabel{Eq:PairewiseLossFunction}{{4.1}{49}{负例采样分析}{equation.4.2.1}{}}
+\newlabel{Eq:GradientOriginal}{{4.2}{50}{负例采样分析}{equation.4.2.2}{}}
+\newlabel{Eq:Gradient}{{4.3}{50}{负例采样分析}{equation.4.2.3}{}}
+\newlabel{Eq:Informativeness}{{4.4}{50}{负例采样分析}{equation.4.2.4}{}}
+\newlabel{Eq:Unbiasedness}{{4.5}{50}{负例采样分析}{equation.4.2.5}{}}
 \citation{gutmann:2012:JMLR,Oord:2018:arxiv,Gutmann:2010:ICAIS}
 \citation{Oord:2018:arxiv}
 \citation{Gutmann:2010:ICAIS}
 \citation{gutmann:2012:JMLR}
 \citation{Wang:2020:ICML,Xu:2022:arxiv,Liu:2021:TKDE}
 \citation{Liu:2021:TKDE}
-\citation{Wang:2020:ICML}
 \citation{Xu:2022:arxiv}
-\@writefile{toc}{\contentsline {section}{\numberline {4.3}贝叶斯最优负采样算法}{44}{section.4.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.1}类条件概率密度}{44}{subsection.4.3.1}\protected@file@percent }
-\newlabel{Sec:Dis}{{4.3.1}{44}{类条件概率密度}{subsection.4.3.1}{}}
-\newlabel{Eq:OrderRelation}{{4.6}{44}{类条件概率密度}{equation.4.3.6}{}}
-\newlabel{Eq:TNpdf}{{4.7}{44}{类条件概率密度}{equation.4.3.7}{}}
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.3.1.1}经验分布}{45}{subsubsection.4.3.1.1}\protected@file@percent }
-\newlabel{Appendix:Realdist}{{4.3.1.1}{45}{经验分布}{subsubsection.4.3.1.1}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces 不同训练时点的相似度分数的经验分布\relax }}{45}{figure.caption.23}\protected@file@percent }
-\newlabel{Fig:DistributionStatistics}{{4.2}{45}{不同训练时点的相似度分数的经验分布\relax }{figure.caption.23}{}}
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.3.1.2}理论分布}{45}{subsubsection.4.3.1.2}\protected@file@percent }
-\newlabel{Appendix:Theodist}{{4.3.1.2}{45}{理论分布}{subsubsection.4.3.1.2}{}}
+\citation{Wang:2020:ICML}
+\@writefile{toc}{\contentsline {section}{\numberline {4.3}最优负例采样算法设计}{51}{section.4.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.1}类条件概率密度}{51}{subsection.4.3.1}\protected@file@percent }
+\newlabel{Sec:Dis}{{4.3.1}{51}{类条件概率密度}{subsection.4.3.1}{}}
+\newlabel{Eq:OrderRelation}{{4.6}{51}{类条件概率密度}{equation.4.3.6}{}}
+\newlabel{Eq:TNpdf}{{4.7}{52}{类条件概率密度}{equation.4.3.7}{}}
+\newlabel{Eq:FNpdf}{{4.8}{52}{类条件概率密度}{equation.4.3.8}{}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.3.1.1}经验分布}{52}{subsubsection.4.3.1.1}\protected@file@percent }
+\newlabel{Appendix:Realdist}{{4.3.1.1}{52}{经验分布}{subsubsection.4.3.1.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces 不同训练时点的相似度分数的经验分布\relax }}{52}{figure.caption.25}\protected@file@percent }
+\newlabel{Fig:DistributionStatistics}{{4.2}{52}{不同训练时点的相似度分数的经验分布\relax }{figure.caption.25}{}}
 \citation{glivenko:1933}
 \citation{glivenko:1933}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.3}{\ignorespaces 相似度分数的理论分布\relax }}{46}{figure.caption.24}\protected@file@percent }
-\newlabel{Fig:TheoryDist}{{4.3}{46}{相似度分数的理论分布\relax }{figure.caption.24}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.2}贝叶斯分类}{46}{subsection.4.3.2}\protected@file@percent }
-\newlabel{Eq:PostTN}{{4.9}{46}{贝叶斯分类}{equation.4.3.9}{}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.3.1.2}理论分布}{53}{subsubsection.4.3.1.2}\protected@file@percent }
+\newlabel{Appendix:Theodist}{{4.3.1.2}{53}{理论分布}{subsubsection.4.3.1.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.3}{\ignorespaces 相似度分数的理论分布\relax }}{53}{figure.caption.26}\protected@file@percent }
+\newlabel{Fig:TheoryDist}{{4.3}{53}{相似度分数的理论分布\relax }{figure.caption.26}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.2}贝叶斯分类}{54}{subsection.4.3.2}\protected@file@percent }
+\newlabel{Eq:PostTN}{{4.9}{54}{贝叶斯分类}{equation.4.3.9}{}}
+\newlabel{Eq:PostFN}{{4.10}{54}{贝叶斯分类}{equation.4.3.10}{}}
+\newlabel{Eq:NorPost}{{4.12}{54}{贝叶斯分类}{equation.4.3.12}{}}
 \citation{glivenko:1933}
 \citation{glivenko:1933}
 \citation{Steffen:2014:WSDM,Zhang:2013:SIGIR}
 \citation{Steffen:2014:WSDM}
 \citation{Zhang:2013:SIGIR}
-\newlabel{Eq:PostFN}{{4.10}{47}{贝叶斯分类}{equation.4.3.10}{}}
-\newlabel{Eq:NorPost}{{4.12}{47}{贝叶斯分类}{equation.4.3.12}{}}
-\newlabel{Eq:unbias}{{4.14}{47}{贝叶斯分类}{equation.4.3.12}{}}
-\newlabel{Eq:CDF}{{4.15}{47}{贝叶斯分类}{equation.4.3.15}{}}
-\newlabel{Eq:Prior}{{4.16}{47}{贝叶斯分类}{equation.4.3.16}{}}
 \citation{Jingtao:2019:IJCAI}
 \citation{Jingtao:2019:IJCAI}
 \citation{Wang:2020:WWW}
@@ -104,29 +99,49 @@
 \citation{Zhang:2013:SIGIR}
 \citation{Ding:2020:NIPS}
 \citation{Ding:2020:NIPS}
+\newlabel{Eq:unbias}{{4.14}{55}{贝叶斯分类}{equation.4.3.12}{}}
+\newlabel{Eq:CDF}{{4.15}{55}{贝叶斯分类}{equation.4.3.15}{}}
+\newlabel{Eq:Prior}{{4.16}{55}{贝叶斯分类}{equation.4.3.16}{}}
 \citation{Steffen:2009:UAI}
 \citation{Steffen:2009:UAI}
 \citation{Herschtal:2004:ICML,Steffen:2009:UAI}
 \citation{Steffen:2009:UAI}
 \citation{Herschtal:2004:ICML}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.3}最优采样准则}{48}{subsection.4.3.3}\protected@file@percent }
-\@writefile{thm}{\contentsline {definition}{{定义}{4.{1}}{条件采样风险}}{48}{definition.4.1}\protected@file@percent }
-\newlabel{eq:condirisk}{{4.17}{48}{最优采样准则}{equation.4.3.17}{}}
-\@writefile{thm}{\contentsline {definition}{{定义}{4.{2}}{经验采样风险}}{48}{definition.4.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.4}{\ignorespaces 后验概率函数图\relax }}{56}{figure.caption.27}\protected@file@percent }
+\newlabel{Fig:unbias}{{4.4}{56}{后验概率函数图\relax }{figure.caption.27}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.3}最优采样准则}{56}{subsection.4.3.3}\protected@file@percent }
+\@writefile{thm}{\contentsline {definition}{{定义}{4.{1}}{条件采样风险}}{56}{definition.4.1}\protected@file@percent }
+\newlabel{eq:condirisk}{{4.17}{56}{最优采样准则}{equation.4.3.17}{}}
+\@writefile{thm}{\contentsline {definition}{{定义}{4.{2}}{经验采样风险}}{57}{definition.4.2}\protected@file@percent }
+\@writefile{thm}{\contentsline {theorem}{{定理}{4.{1}}{最优采样准则}}{57}{theorem.4.1}\protected@file@percent }
+\newlabel{optimalrule}{{4.{1}}{57}{最优采样准则}{theorem.4.1}{}}
+\newlabel{Eq:OptimalSam}{{4.19}{57}{最优采样准则}{equation.4.3.19}{}}
+\@writefile{thm}{\contentsline {proof}{{证明}{3}{}}{57}{proof.3}\protected@file@percent }
 \citation{Steffen:2009:UAI}
 \citation{Steffen:2009:UAI}
-\@writefile{thm}{\contentsline {theorem}{{定理}{4.{1}}{最优采样准则}}{49}{theorem.4.1}\protected@file@percent }
-\newlabel{optimalrule}{{4.{1}}{49}{最优采样准则}{theorem.4.1}{}}
-\newlabel{Eq:OptimalSam}{{4.19}{49}{最优采样准则}{equation.4.3.19}{}}
-\@writefile{thm}{\contentsline {proof}{{证明}{3}{}}{49}{proof.3}\protected@file@percent }
-\newlabel{Eq:rankinggain}{{4.24}{50}{最优采样准则}{equation.4.3.24}{}}
-\newlabel{Eq:NegativeSam}{{4.26}{50}{最优采样准则}{equation.4.3.26}{}}
-\@writefile{toc}{\contentsline {section}{\numberline {4.4}算法实现与时间复杂度分析}{50}{section.4.4}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.4.1}算法步骤}{50}{subsection.4.4.1}\protected@file@percent }
+\newlabel{Eq:rankinggain}{{4.24}{58}{最优采样准则}{equation.4.3.24}{}}
+\newlabel{Eq:NegativeSam}{{4.26}{58}{最优采样准则}{equation.4.3.26}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.4}算法实现与时间复杂度分析}{59}{section.4.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4.1}算法步骤}{59}{subsection.4.4.1}\protected@file@percent }
+\@writefile{loa}{\contentsline {algorithm}{\numberline {4.1}{\ignorespaces 贝叶斯负采样算法(BNS)伪代码\relax }}{59}{algorithm.4.1}\protected@file@percent }
+\newlabel{Alg:1}{{4.1}{59}{贝叶斯负采样算法(BNS)伪代码\relax }{algorithm.4.1}{}}
+\newlabel{Algo:rating}{{4.1}{59}{贝叶斯负采样算法(BNS)伪代码\relax }{algorithm.4.1}{}}
+\newlabel{Algo:candi}{{4.1}{59}{贝叶斯负采样算法(BNS)伪代码\relax }{algorithm.4.1}{}}
+\newlabel{Algo:inf}{{4.1}{59}{贝叶斯负采样算法(BNS)伪代码\relax }{algorithm.4.1}{}}
+\newlabel{Algo:p}{{4.1}{59}{贝叶斯负采样算法(BNS)伪代码\relax }{algorithm.4.1}{}}
+\newlabel{Algo:f}{{4.1}{59}{贝叶斯负采样算法(BNS)伪代码\relax }{algorithm.4.1}{}}
+\newlabel{Algo:unbias}{{4.1}{59}{贝叶斯负采样算法(BNS)伪代码\relax }{algorithm.4.1}{}}
+\newlabel{Algo:samp}{{4.1}{59}{贝叶斯负采样算法(BNS)伪代码\relax }{algorithm.4.1}{}}
 \citation{Xuejiao:2020:ASC}
 \citation{Xuejiao:2020:ASC}
 \citation{Steffen:2009:UAI}
 \citation{Steffen:2009:UAI}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4.2}时间复杂度}{60}{subsection.4.4.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4.5}实验结果及分析}{60}{section.4.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.5.1}试验设置}{60}{subsection.4.5.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.5.1.1}数据集}{60}{subsubsection.4.5.1.1}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {4.1}{\ignorespaces 数据集统计信息\relax }}{60}{table.caption.28}\protected@file@percent }
+\newlabel{3Table:Dataset}{{4.1}{60}{数据集统计信息\relax }{table.caption.28}{}}
 \citation{Steffen:2009:UAI,Xiangnan:2020:SIGIR,Weike:2013:IJCAI,Yu:2018:CIKM,Wang:2019:SIGIR,Xuejiao:2020:ASC}
 \citation{Steffen:2009:UAI}
 \citation{Xiangnan:2020:SIGIR}
@@ -144,10 +159,6 @@
 \citation{Zhang:2013:SIGIR}
 \citation{Ding:2020:NIPS}
 \citation{Ding:2020:NIPS}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.4.2}时间复杂度}{51}{subsection.4.4.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {4.5}试验评估}{51}{section.4.5}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.5.1}试验设置}{51}{subsection.4.5.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.5.1.1}数据集}{51}{subsubsection.4.5.1.1}\protected@file@percent }
 \citation{Steffen:2009:UAI,Xiangnan:2020:SIGIR,Weike:2013:IJCAI,Yu:2018:CIKM,Wang:2019:SIGIR,Xuejiao:2020:ASC}
 \citation{Steffen:2009:UAI}
 \citation{Xiangnan:2020:SIGIR}
@@ -163,67 +174,65 @@
 \citation{Steffen:2014:WSDM}
 \citation{Zhang:2013:SIGIR}
 \citation{Zhang:2013:SIGIR}
-\@writefile{loa}{\contentsline {algorithm}{\numberline {2}{\ignorespaces 贝叶斯负采样算法(BNS)伪代码\relax }}{52}{algorithm.2}\protected@file@percent }
-\newlabel{Alg:1}{{2}{52}{贝叶斯负采样算法(BNS)伪代码\relax }{algorithm.2}{}}
-\newlabel{Algo:rating}{{2}{52}{贝叶斯负采样算法(BNS)伪代码\relax }{algorithm.2}{}}
-\newlabel{Algo:candi}{{2}{52}{贝叶斯负采样算法(BNS)伪代码\relax }{algorithm.2}{}}
-\newlabel{Algo:inf}{{2}{52}{贝叶斯负采样算法(BNS)伪代码\relax }{algorithm.2}{}}
-\newlabel{Algo:p}{{2}{52}{贝叶斯负采样算法(BNS)伪代码\relax }{algorithm.2}{}}
-\newlabel{Algo:f}{{2}{52}{贝叶斯负采样算法(BNS)伪代码\relax }{algorithm.2}{}}
-\newlabel{Algo:unbias}{{2}{52}{贝叶斯负采样算法(BNS)伪代码\relax }{algorithm.2}{}}
-\newlabel{Algo:samp}{{2}{52}{贝叶斯负采样算法(BNS)伪代码\relax }{algorithm.2}{}}
-\@writefile{lot}{\contentsline {table}{\numberline {4.1}{\ignorespaces 数据集统计信息\relax }}{52}{table.caption.25}\protected@file@percent }
-\newlabel{3Table:Dataset}{{4.1}{52}{数据集统计信息\relax }{table.caption.25}{}}
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.5.1.2}对比算法}{52}{subsubsection.4.5.1.2}\protected@file@percent }
 \citation{Ding:2020:NIPS}
 \citation{Ding:2020:NIPS}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.5.1.2}对比算法}{61}{subsubsection.4.5.1.2}\protected@file@percent }
 \citation{Xiangnan:2020:SIGIR}
 \citation{Xiangnan:2020:SIGIR}
 \citation{Xiangnan:2016SIGIR}
 \citation{Xiangnan:2016SIGIR}
 \citation{Xiangnan:2020:SIGIR}
 \citation{Xiangnan:2020:SIGIR}
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.5.1.3}评估指标}{53}{subsubsection.4.5.1.3}\protected@file@percent }
-\newlabel{Eq:TNR}{{4.27}{53}{评估指标}{equation.4.5.27}{}}
-\newlabel{Eq:INF}{{4.28}{53}{评估指标}{equation.4.5.27}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.5.2}试验结果}{54}{subsection.4.5.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.5.2.1}推荐性能}{54}{subsubsection.4.5.2.1}\protected@file@percent }
-\@writefile{lot}{\contentsline {table}{\numberline {4.2}{\ignorespaces Top-k 推荐性能比较\relax }}{54}{table.caption.26}\protected@file@percent }
-\newlabel{3Table:Recommendation}{{4.2}{54}{Top-k 推荐性能比较\relax }{table.caption.26}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.4}{\ignorespaces 不同方法的采样质量比较\relax }}{55}{figure.caption.27}\protected@file@percent }
-\newlabel{Fig:NegQua}{{4.4}{55}{不同方法的采样质量比较\relax }{figure.caption.27}{}}
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.5.2.2}负采样质量}{55}{subsubsection.4.5.2.2}\protected@file@percent }
-\newlabel{Eq:PosteriorSam}{{4.29}{56}{负采样质量}{equation.4.5.29}{}}
-\newlabel{Eq:NegativeSam1}{{4.30}{56}{负采样质量}{equation.4.5.30}{}}
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.5.2.3}超参数分析}{56}{subsubsection.4.5.2.3}\protected@file@percent }
-\newlabel{Appendix:Selection}{{4.5.2.3}{56}{超参数分析}{subsubsection.4.5.2.3}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.5}{\ignorespaces 参数$\lambda $和$|\mathcal  {M}_u|$的影响\relax }}{57}{figure.caption.28}\protected@file@percent }
-\newlabel{Fig:highperparameter}{{4.5}{57}{参数$\lambda $和$|\mathcal {M}_u|$的影响\relax }{figure.caption.28}{}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.5.1.3}评估指标}{62}{subsubsection.4.5.1.3}\protected@file@percent }
+\newlabel{Eq:TNR}{{4.27}{62}{评估指标}{equation.4.5.27}{}}
+\newlabel{Eq:INF}{{4.28}{62}{评估指标}{equation.4.5.28}{}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.5.1.4}超参数设置}{62}{subsubsection.4.5.1.4}\protected@file@percent }
+\citation{sugiyama2022machine}
+\citation{sugiyama2022machine}
+\citation{ml:2018}
+\citation{ml:2018}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.5.2}试验结果}{63}{subsection.4.5.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.5.2.1}推荐性能}{63}{subsubsection.4.5.2.1}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {4.2}{\ignorespaces Top-k 推荐性能比较\relax }}{64}{table.caption.29}\protected@file@percent }
+\newlabel{3Table:Recommendation}{{4.2}{64}{Top-k 推荐性能比较\relax }{table.caption.29}{}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.5.2.2}负采样质量}{64}{subsubsection.4.5.2.2}\protected@file@percent }
+\newlabel{Eq:PosteriorSam}{{4.29}{64}{负采样质量}{equation.4.5.29}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.5}{\ignorespaces 不同方法的采样质量比较\relax }}{65}{figure.caption.30}\protected@file@percent }
+\newlabel{Fig:NegQua}{{4.5}{65}{不同方法的采样质量比较\relax }{figure.caption.30}{}}
+\newlabel{Eq:NegativeSam1}{{4.30}{65}{负采样质量}{equation.4.5.30}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.6}{\ignorespaces 参数$\lambda $的影响\relax }}{66}{figure.caption.31}\protected@file@percent }
+\newlabel{Fig:highperparameter1}{{4.6}{66}{参数$\lambda $的影响\relax }{figure.caption.31}{}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.5.2.3}超参数分析}{66}{subsubsection.4.5.2.3}\protected@file@percent }
+\newlabel{Appendix:Selection}{{4.5.2.3}{66}{超参数分析}{subsubsection.4.5.2.3}{}}
+\citation{beye:book}
+\citation{beye:book}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.7}{\ignorespaces 候选集大小的影响\relax }}{67}{figure.caption.32}\protected@file@percent }
+\newlabel{Fig:highperparameter2}{{4.7}{67}{候选集大小的影响\relax }{figure.caption.32}{}}
 \citation{Ding:2020:NIPS,Park:2019:WWW}
 \citation{Ding:2020:NIPS}
 \citation{Park:2019:WWW}
-\@writefile{lot}{\contentsline {table}{\numberline {4.3}{\ignorespaces BNS负采样算法的消融实验\relax }}{58}{table.caption.29}\protected@file@percent }
-\newlabel{Exp:study}{{4.3}{58}{BNS负采样算法的消融实验\relax }{table.caption.29}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.3}{\ignorespaces BNS负采样算法的消融实验\relax }}{68}{table.caption.33}\protected@file@percent }
+\newlabel{Exp:study}{{4.3}{68}{BNS负采样算法的消融实验\relax }{table.caption.33}{}}
 \citation{Steffen:2009:UAI}
 \citation{Steffen:2009:UAI}
 \citation{Zizhuo:2021:ICDM}
 \citation{Zizhuo:2021:ICDM}
-\citation{Oord:2018:arxiv}
-\citation{Oord:2018:arxiv}
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.5.2.4}向其他损失函数推广}{59}{subsubsection.4.5.2.4}\protected@file@percent }
-\newlabel{Appendix:LossFunc}{{4.5.2.4}{59}{向其他损失函数推广}{subsubsection.4.5.2.4}{}}
-\@writefile{lot}{\contentsline {table}{\numberline {4.4}{\ignorespaces 不同损失函数下BNS负采样算法的表现\relax }}{59}{table.caption.30}\protected@file@percent }
-\newlabel{Exp:supp}{{4.4}{59}{不同损失函数下BNS负采样算法的表现\relax }{table.caption.30}{}}
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.5.2.5}渐近最优采样器}{59}{subsubsection.4.5.2.5}\protected@file@percent }
-\newlabel{Appendix:Asymptotic}{{4.5.2.5}{59}{渐近最优采样器}{subsubsection.4.5.2.5}{}}
-\@writefile{lot}{\contentsline {table}{\numberline {4.5}{\ignorespaces 向最优采样器的渐进过程\relax }}{60}{table.caption.31}\protected@file@percent }
-\newlabel{Table:asymptoticprocess}{{4.5}{60}{向最优采样器的渐进过程\relax }{table.caption.31}{}}
-\@writefile{toc}{\contentsline {section}{\numberline {4.6}本章小结}{60}{section.4.6}\protected@file@percent }
-\newlabel{Sec:Conclusion}{{4.6}{60}{本章小结}{section.4.6}{}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.5.2.4}向其他损失函数推广}{69}{subsubsection.4.5.2.4}\protected@file@percent }
+\newlabel{Appendix:LossFunc}{{4.5.2.4}{69}{向其他损失函数推广}{subsubsection.4.5.2.4}{}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.5.2.5}渐近最优采样器}{69}{subsubsection.4.5.2.5}\protected@file@percent }
+\newlabel{Appendix:Asymptotic}{{4.5.2.5}{69}{渐近最优采样器}{subsubsection.4.5.2.5}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.4}{\ignorespaces 不同损失函数下BNS负采样算法的表现\relax }}{70}{table.caption.34}\protected@file@percent }
+\newlabel{Exp:supp}{{4.4}{70}{不同损失函数下BNS负采样算法的表现\relax }{table.caption.34}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.5}{\ignorespaces 向最优采样器的渐进过程\relax }}{70}{table.caption.35}\protected@file@percent }
+\newlabel{Table:asymptoticprocess}{{4.5}{70}{向最优采样器的渐进过程\relax }{table.caption.35}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.6}本章小结}{70}{section.4.6}\protected@file@percent }
+\newlabel{Sec:Conclusion}{{4.6}{70}{本章小结}{section.4.6}{}}
+\citation{Ding:2020:NIPS}
+\citation{Ding:2020:NIPS}
 \@setckpt{body/chap03}{
-\setcounter{page}{62}
+\setcounter{page}{72}
 \setcounter{equation}{30}
-\setcounter{enumi}{0}
+\setcounter{enumi}{3}
 \setcounter{enumii}{0}
 \setcounter{enumiii}{0}
 \setcounter{enumiv}{0}
@@ -236,7 +245,7 @@
 \setcounter{subsubsection}{0}
 \setcounter{paragraph}{0}
 \setcounter{subparagraph}{0}
-\setcounter{figure}{5}
+\setcounter{figure}{7}
 \setcounter{table}{5}
 \setcounter{parentequation}{0}
 \setcounter{caption@flags}{2}
@@ -251,8 +260,8 @@
 \setcounter{endNonectr}{106}
 \setcounter{currNonectr}{0}
 \setcounter{NAT@ctr}{0}
-\setcounter{Item}{0}
-\setcounter{Hfootnote}{1}
+\setcounter{Item}{10}
+\setcounter{Hfootnote}{4}
 \setcounter{Hy@AnnotLevel}{0}
 \setcounter{bookmark@seq@number}{25}
 \setcounter{currdefinitionctr}{2}
@@ -288,12 +297,12 @@
 \setcounter{ALC@rem}{0}
 \setcounter{ALC@depth}{0}
 \setcounter{float@type}{8}
-\setcounter{algorithm}{2}
+\setcounter{algorithm}{1}
 \setcounter{AlgoLine}{0}
 \setcounter{algocfline}{0}
 \setcounter{algocfproc}{0}
 \setcounter{algocf}{0}
-\setcounter{LT@tables}{1}
-\setcounter{LT@chunks}{2}
+\setcounter{LT@tables}{0}
+\setcounter{LT@chunks}{0}
 \setcounter{section@level}{1}
 }
